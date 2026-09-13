@@ -124,9 +124,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Veolia Environnement SA** | Técnico/a Junior de Soporte Operaciones (Prácticas) | San Sebastián, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000083811105?s=gh-spain-internships-2027) |
-| **Veolia Environnement SA** | Técnico/a Junior de Soporte Operaciones (Prácticas) | Amurrio, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000083810915?s=gh-spain-internships-2027) |
-| **Veolia Environnement SA** | Técnico/a Junior de Soporte Operaciones (Prácticas) | Pontevedra, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000083810715?s=gh-spain-internships-2027) |
+| **Veolia Environnement SA** | Técnico/a Junior de Soporte Operaciones (Prácticas) | San Sebastián, ES | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000083811105?s=gh-spain-internships-2027) |
+| **Veolia Environnement SA** | Técnico/a Junior de Soporte Operaciones (Prácticas) | Amurrio, ES | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000083810915?s=gh-spain-internships-2027) |
+| **Veolia Environnement SA** | Técnico/a Junior de Soporte Operaciones (Prácticas) | Pontevedra, ES | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000083810715?s=gh-spain-internships-2027) |
 | **Sopra Steria** | Consultor Técnico Junior | Madrid, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000137408499?s=gh-spain-internships-2027) |
 | **GE Vernova** | Supply Chain Intern | Zamudio, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5051702?s=gh-spain-internships-2027) |
 | **Abbott** | Field Service FP Internship - Madrid - Core Lab | Spain - Madrid, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31158460?s=gh-spain-internships-2027) |
@@ -150,9 +150,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Veolia Environnement SA** | Junior Financial Auditor. | Barcelona, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000082166954?s=gh-spain-internships-2027) |
-| **Veolia Environnement SA** | Ingeniero/a Eléctrico/a Junior | Carmona, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000089461241?s=gh-spain-internships-2027) |
-| **Veolia Environnement SA** | Técnica/o junior de instalaciones de Calefacción Bizkaia | Zamudio, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000104998955?s=gh-spain-internships-2027) |
+| **Veolia Environnement SA** | Junior Financial Auditor. | Barcelona, ES | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000082166954?s=gh-spain-internships-2027) |
+| **Veolia Environnement SA** | Ingeniero/a Eléctrico/a Junior | Carmona, ES | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000089461241?s=gh-spain-internships-2027) |
+| **Veolia Environnement SA** | Técnica/o junior de instalaciones de Calefacción Bizkaia | Zamudio, ES | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000104998955?s=gh-spain-internships-2027) |
 | **Sopra Steria** | Consultor/a Junior de Ciberseguridad y Cumplimiento Normativo (ENS) | L'Hospitalet de Llobregat, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000142805049?s=gh-spain-internships-2027) |
 | **NBCUniversal** | Finance Trainee | Madrid, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-NBCUniversal3-744000143285424?s=gh-spain-internships-2027) |
 | **Intuitive** | da Vinci Clinical Territory Associate | Seville, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000144041729?s=gh-spain-internships-2027) |
