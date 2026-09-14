@@ -16,9 +16,9 @@
 <p align="center">🚀 Internships and entry-level programs across Spain in tech, finance, healthcare, and more. Postings are shown in their original language, refreshed daily.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Internships-149-3FB950?style=flat&logo=briefcase" height="30" alt="Total Internships">
+  <img src="https://img.shields.io/badge/Total%20Internships-148-3FB950?style=flat&logo=briefcase" height="30" alt="Total Internships">
   <img src="https://img.shields.io/badge/Operations%20%26%20Support-20-2F81F7?style=flat&logo=briefcase" height="30" alt="Operations & Support">
-  <img src="https://img.shields.io/badge/Companies-47-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
+  <img src="https://img.shields.io/badge/Companies-46-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
 </p>
 
@@ -65,9 +65,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Sopra Steria** | Programador/a Java Junior con francés | Valencia, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000135040614?s=gh-spain-internships-2027) |
-| **Sopra Steria** | Programador/a Java Junior con francés | Madrid, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000135035735?s=gh-spain-internships-2027) |
-| **Sopra Steria** | Programador/a Junior con Francés | Sevilla, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000134943139?s=gh-spain-internships-2027) |
+| **Sopra Steria** | Programador/a Java Junior con francés | Valencia, ES | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000135040614?s=gh-spain-internships-2027) |
+| **Sopra Steria** | Programador/a Java Junior con francés | Madrid, ES | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000135035735?s=gh-spain-internships-2027) |
+| **Sopra Steria** | Programador/a Junior con Francés | Sevilla, ES | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000134943139?s=gh-spain-internships-2027) |
 | **Monolithic Power Systems** | Software Engineer - New Grad | Barcelona | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-monolithicpower-mps-careers-R-1952?s=gh-spain-internships-2027) |
 | **Datadog** | Software Engineering Intern | Madrid | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-datadog-8114161?s=gh-spain-internships-2027) |
 | **Thales** | DevOps Intern | Madrid, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thales-careers-R0336368?s=gh-spain-internships-2027) |
@@ -124,17 +124,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Veolia Environnement SA** | Técnico/a Junior de Soporte Operaciones (Prácticas) | San Sebastián, ES | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000083811105?s=gh-spain-internships-2027) |
-| **Veolia Environnement SA** | Técnico/a Junior de Soporte Operaciones (Prácticas) | Amurrio, ES | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000083810915?s=gh-spain-internships-2027) |
-| **Veolia Environnement SA** | Técnico/a Junior de Soporte Operaciones (Prácticas) | Pontevedra, ES | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000083810715?s=gh-spain-internships-2027) |
-| **Sopra Steria** | Consultor Técnico Junior | Madrid, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000137408499?s=gh-spain-internships-2027) |
+| **Veolia Environnement SA** | Técnico/a Junior de Soporte Operaciones (Prácticas) | Amurrio, ES | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000083810915?s=gh-spain-internships-2027) |
+| **Veolia Environnement SA** | Técnico/a Junior de Soporte Operaciones (Prácticas) | Pontevedra, ES | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000083810715?s=gh-spain-internships-2027) |
+| **Veolia Environnement SA** | Técnico/a Junior de Soporte Operaciones (Prácticas) | Ourense, ES | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000083810635?s=gh-spain-internships-2027) |
+| **Sopra Steria** | Consultor Técnico Junior | Madrid, ES | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000137408499?s=gh-spain-internships-2027) |
 | **GE Vernova** | Supply Chain Intern | Zamudio, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5051702?s=gh-spain-internships-2027) |
 | **Abbott** | Field Service FP Internship - Madrid - Core Lab | Spain - Madrid, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31158460?s=gh-spain-internships-2027) |
 | **Celonis** | (Graduated) Intern Academy Operations & Technology | Madrid | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-celonis-7977932003?s=gh-spain-internships-2027) |
 | **Geotab** | Technical Support Specialist - German/English speaking | Ferrara +2 more | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-geotab-5353627008?s=gh-spain-internships-2027) |
+| **HP Inc** | Procurement Intern – EMEA Supply Chain | Sant Cugat del Valles | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI3037?s=gh-spain-internships-2027) |
 | **Medtronic** | Technical Support Intern | Alicante Alicante Spain, ES +2 more | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-medtronic-medtroniccareers-R73161?s=gh-spain-internships-2027) |
 | **ABB** | Internship: Support for the Electrification Sales Department - Industrial Segment | Paterna | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00027975?s=gh-spain-internships-2027) |
-| **HP Inc** | Procurement Intern – EMEA Supply Chain | Sant Cugat del Valles | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI3037?s=gh-spain-internships-2027) |
 | **ABB** | Internship: Customer Operations Department: customer service and order management | Sant Quirze del Valles | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00039581?s=gh-spain-internships-2027) |
 | **Abbott** | Field Service Engineer Internship - Mechanical, Industrial, Electronics or Automation Engineer... | Spain - Madrid, ES | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31152648?s=gh-spain-internships-2027) |
 | **Geotab** | Technical Customer Support Representative (Italian speaker) | Madrid | 5mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-geotab-5044846008?s=gh-spain-internships-2027) |
@@ -149,24 +149,24 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Veolia Environnement SA** | Junior Financial Auditor. | Barcelona, ES | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000082166954?s=gh-spain-internships-2027) |
-| **Veolia Environnement SA** | Ingeniero/a Eléctrico/a Junior | Carmona, ES | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000089461241?s=gh-spain-internships-2027) |
-| **Veolia Environnement SA** | Técnica/o junior de instalaciones de Calefacción Bizkaia | Zamudio, ES | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000104998955?s=gh-spain-internships-2027) |
-| **Sopra Steria** | Consultor/a Junior de Ciberseguridad y Cumplimiento Normativo (ENS) | L'Hospitalet de Llobregat, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000142805049?s=gh-spain-internships-2027) |
-| **Sopra Steria** | Operador IT Junior con Inglés | Madrid, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000146452234?s=gh-spain-internships-2027) |
-| **NBCUniversal** | Finance Trainee | Madrid, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-NBCUniversal3-744000143285424?s=gh-spain-internships-2027) |
-| **Intuitive** | da Vinci Clinical Territory Associate | Seville, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000144041729?s=gh-spain-internships-2027) |
-| **Intuitive** | da Vinci Clinical Territory Associate | Málaga, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000144041100?s=gh-spain-internships-2027) |
-| **Eurofins** | Customer Service Internship | Madrid, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-743999708302550?s=gh-spain-internships-2027) |
-| **Bosch Group** | Prácticas: Departamento de Ingeniería de Producción (MSS2-I) - Producción de sensores de airbag... | Madrid, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000038252816?s=gh-spain-internships-2027) |
-| **Bosch Group** | Prácticas Ingeniería I+D Filtración y electrificación en automoción | Aranjuez, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000119578574?s=gh-spain-internships-2027) |
-| **Bosch Group** | Internship - Recruiting and HR | Madrid, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000121956998?s=gh-spain-internships-2027) |
-| **Veeva Systems** | Associate Consultant - Entry-Level Technology Consulting | Spain - Barcelona | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-veeva-2b122666-a441-45fa-a94a-f31dd28d5661?s=gh-spain-internships-2027) |
-| **Veeva Systems** | Associate Consultant (Spain) - Entry-Level Technology Consulting (Life Sciences) | Spain - Barcelona | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-veeva-68e54108-77f6-4295-8f2b-55ca79a1745b?s=gh-spain-internships-2027) |
-| **Veeva Systems** | Associate Technical Consultant - Entry-Level Consulting | Spain - Barcelona | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-veeva-d5fce9c2-7e36-47bb-aee1-93038979de93?s=gh-spain-internships-2027) |
-| **Rover** | Trust and Safety Agent - French Speaking (Mon-Fri) | Spain | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-rover-7cd71faa-5b4b-4476-ace6-0a19623569cf?s=gh-spain-internships-2027) |
-| **Rover** | Trust and Safety Agent - French Speaking (Tue-Sat) | Spain | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-rover-a9df3669-d156-4d19-ab06-1e3e2dab2f98?s=gh-spain-internships-2027) |
-| **Rover** | Trust and Safety Agent - German Speaking (Mon-Fri) | Spain | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-rover-1c334d74-861c-4872-8906-499e1d4202ce?s=gh-spain-internships-2027) |
+| **Veolia Environnement SA** | Junior Financial Auditor. | Barcelona, ES | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000082166954?s=gh-spain-internships-2027) |
+| **Veolia Environnement SA** | Ingeniero/a Eléctrico/a Junior | Carmona, ES | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000089461241?s=gh-spain-internships-2027) |
+| **Veolia Environnement SA** | Técnica/o junior de instalaciones de Calefacción Bizkaia | Zamudio, ES | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000104998955?s=gh-spain-internships-2027) |
+| **Sopra Steria** | Consultor/a Junior de Ciberseguridad y Cumplimiento Normativo (ENS) | L'Hospitalet de Llobregat, ES | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000142805049?s=gh-spain-internships-2027) |
+| **Sopra Steria** | Operador IT Junior con Inglés | Madrid, ES | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000146452234?s=gh-spain-internships-2027) |
+| **NBCUniversal** | Finance Trainee | Madrid, ES | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-NBCUniversal3-744000143285424?s=gh-spain-internships-2027) |
+| **Intuitive** | da Vinci Clinical Territory Associate | Seville, ES | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000144041729?s=gh-spain-internships-2027) |
+| **Intuitive** | da Vinci Clinical Territory Associate | Málaga, ES | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000144041100?s=gh-spain-internships-2027) |
+| **Eurofins** | Customer Service Internship | Madrid, ES | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-743999708302550?s=gh-spain-internships-2027) |
+| **Veeva Systems** | Associate Technical Consultant - Entry-Level Consulting | Spain - Barcelona | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-veeva-d5fce9c2-7e36-47bb-aee1-93038979de93?s=gh-spain-internships-2027) |
+| **Veeva Systems** | Associate Consultant (Spain) - Entry-Level Technology Consulting (Life Sciences) | Spain - Barcelona | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-veeva-68e54108-77f6-4295-8f2b-55ca79a1745b?s=gh-spain-internships-2027) |
+| **Veeva Systems** | Associate Consultant - Entry-Level Technology Consulting | Spain - Barcelona | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-veeva-2b122666-a441-45fa-a94a-f31dd28d5661?s=gh-spain-internships-2027) |
+| **Bosch Group** | Prácticas: Departamento de Ingeniería de Producción (MSS2-I) - Producción de sensores de airbag... | Madrid, ES | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000038252816?s=gh-spain-internships-2027) |
+| **Rover** | Trust and Safety Agent - French Speaking (Mon-Fri) | Spain | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-rover-7cd71faa-5b4b-4476-ace6-0a19623569cf?s=gh-spain-internships-2027) |
+| **Rover** | Trust and Safety Agent - French Speaking (Tue-Sat) | Spain | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-rover-a9df3669-d156-4d19-ab06-1e3e2dab2f98?s=gh-spain-internships-2027) |
+| **Rover** | Trust and Safety Agent - German Speaking (Mon-Fri) | Spain | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-rover-1c334d74-861c-4872-8906-499e1d4202ce?s=gh-spain-internships-2027) |
+| **Bosch Group** | Prácticas Ingeniería I+D Filtración y electrificación en automoción | Aranjuez, ES | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000119578574?s=gh-spain-internships-2027) |
+| **Bosch Group** | Internship - Recruiting and HR | Madrid, ES | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000121956998?s=gh-spain-internships-2027) |
 | **Fresenius Medical Care** | Intern program 360 | Tres Cantos | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0261733?s=gh-spain-internships-2027) |
 | **Vertiv** | Junior Customer Engineer Thermal | Madrid | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-vertiv-20281626?s=gh-spain-internships-2027) |
 | **American Tower** | NetOps Intern (Maintenance) | Madrid | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-american-tower-2937?s=gh-spain-internships-2027) |
@@ -223,7 +223,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **GE Vernova** | Intern BIO Technical office Team | Zamudio, ES | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5041879?s=gh-spain-internships-2027) |
 | **Commvault** | SaaS Account Executive (English/German, New business hunting role) | Madrid | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-commvault-5343532008?s=gh-spain-internships-2027) |
 | **GitLab** | Associate Solutions Architect (French or German fluency) | Spain | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-gitlab-8687171002?s=gh-spain-internships-2027) |
-| **SharkNinja** | Social Affiliate Specialist - Spain | Madrid | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-sharkninjaoperatingllc-4693832006?s=gh-spain-internships-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -303,7 +302,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 149 current opportunities from 47 companies**
+**🎯 148 current opportunities from 46 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
