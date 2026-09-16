@@ -16,7 +16,7 @@
 <p align="center">🚀 Internships and entry-level programs across Spain in tech, finance, healthcare, and more. Postings are shown in their original language, refreshed daily.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Internships-152-3FB950?style=flat&logo=briefcase" height="30" alt="Total Internships">
+  <img src="https://img.shields.io/badge/Total%20Internships-163-3FB950?style=flat&logo=briefcase" height="30" alt="Total Internships">
   <img src="https://img.shields.io/badge/Operations%20%26%20Support-18-2F81F7?style=flat&logo=briefcase" height="30" alt="Operations & Support">
   <img src="https://img.shields.io/badge/Companies-47-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
@@ -100,7 +100,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|----------|
 | **PricewaterhouseCoopers** | Beca en Ciencias Actuariales 2027 (FY28) | Madrid, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-760438WD?s=gh-spain-internships-2027) |
 | **HP Inc** | Data Analyst Intern | Sant Cugat del Valles | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI3248?s=gh-spain-internships-2027) |
-| **TD Synnex** | Prácticas en BI - Data Analytics / E-Commerce (jornada completa) | Barcelona | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R53955?s=gh-spain-internships-2027) |
+| **PricewaterhouseCoopers** | Consultoría   Prácticas Strategy& Growth Revenue & Customer Analytics (RGM)   Septiembre 2026 | Madrid, ES | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-741464WD?s=gh-spain-internships-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -154,9 +154,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Abbott** | Marketing Internship SH - Madrid | Spain - Madrid, ES | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31162315?s=gh-spain-internships-2027) |
-| **TD Synnex** | Trainee Mobile & Consumer Electronics | Barcelona | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R53969?s=gh-spain-internships-2027) |
 | **PricewaterhouseCoopers** | TLS  New Joiners Beca Legal  Master habilitante Septiembre 2027 | Madrid, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-762094WD?s=gh-spain-internships-2027) |
+| **TD Synnex** | Trainee Mobile & Consumer Electronics | Barcelona | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R53969?s=gh-spain-internships-2027) |
+| **Abbott** | Marketing Internship SH - Madrid | Spain - Madrid, ES | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31162315?s=gh-spain-internships-2027) |
 | **Veolia Environnement SA** | Ingeniero/a junior de Herramientas Digitales. | Madrid, ES | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000149794728?s=gh-spain-internships-2027) |
 | **Bureau Veritas** | Córdoba Beca Administración de Personal Córd | Spain | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/successfactors-bureauveritas-1437413533?s=gh-spain-internships-2027) |
 | **Bosch Group** | Estudiante en prácticas – Departamento de Logística LOG/IPN | Madrid, ES | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000149613311?s=gh-spain-internships-2027) |
@@ -172,7 +172,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Fresenius Medical Care** | Intern program 360 | Tres Cantos | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0261733?s=gh-spain-internships-2027) |
 | **Veolia Environnement SA** | Ingeniero/a Energía o Electricidad Junior | Ontinyent, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000149291600?s=gh-spain-internships-2027) |
 | **Bosch Group** | Prácticas en Coordinación de Repuestos en Compras (Bosch Manufacturing Solutions) | Madrid, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000149250509?s=gh-spain-internships-2027) |
-| **Vertiv** | Junior Customer Engineer Thermal | Madrid | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-vertiv-20281626?s=gh-spain-internships-2027) |
+| **American Tower** | NetOps Intern (Maintenance) | Madrid | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-american-tower-2937?s=gh-spain-internships-2027) |
 | **Celonis** | Intern Strategic Program Management | Madrid | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-celonis-7990967003?s=gh-spain-internships-2027) |
 | **Intuitive** | da Vinci Clinical Territory Associate | Vitoria-Gasteiz, ES | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000149026670?s=gh-spain-internships-2027) |
 | **Intuitive** | da Vinci Clinical Territory Associate | Tarragona, ES | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000144758835?s=gh-spain-internships-2027) |
@@ -199,8 +199,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Johnson Controls** | Coordinador/a Instalaciones Retail I - Temp | Las Rozas-Madrid-Spain, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jci-jci-WD30279014?s=gh-spain-internships-2027) |
 | **Thales** | Sales Department Intern | Madrid, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thales-careers-R0338778?s=gh-spain-internships-2027) |
 | **Sopra Steria** | Administrador/a Junior Remedy con Inglés | Madrid, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000147256766?s=gh-spain-internships-2027) |
-| **TD Synnex** | Prácticas en Digital Marketing B2B | Alcobendas Spain, ES +1 more | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R55660?s=gh-spain-internships-2027) |
 | **Cisco** | Sales Legal Intern | Madrid | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2024774?s=gh-spain-internships-2027) |
+| **TD Synnex** | Prácticas en Digital Marketing B2B | Alcobendas Spain, ES +1 more | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R55660?s=gh-spain-internships-2027) |
 | **Pfizer** | Beca en Finanzas - Planta de Producción Farmacéutica | Spain Madrid +1 more | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pfizer-pfizercareers-4963089?s=gh-spain-internships-2027) |
 | **Bosch Group** | Estudiante en prácticas - economía y organización CTG/ICO | Madrid, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000147017669?s=gh-spain-internships-2027) |
 | **Celonis** | Intern Global Customer Advocacy | Madrid | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-celonis-7821371003?s=gh-spain-internships-2027) |
@@ -309,7 +309,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 152 current opportunities from 47 companies**
+**🎯 163 current opportunities from 47 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
