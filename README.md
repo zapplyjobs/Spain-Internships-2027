@@ -16,7 +16,7 @@
 <p align="center">🚀 Internships and entry-level programs across Spain in tech, finance, healthcare, and more. Postings are shown in their original language, refreshed daily.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Internships-162-3FB950?style=flat&logo=briefcase" height="30" alt="Total Internships">
+  <img src="https://img.shields.io/badge/Total%20Internships-149-3FB950?style=flat&logo=briefcase" height="30" alt="Total Internships">
   <img src="https://img.shields.io/badge/Operations%20%26%20Support-18-2F81F7?style=flat&logo=briefcase" height="30" alt="Operations & Support">
   <img src="https://img.shields.io/badge/Companies-47-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
@@ -100,7 +100,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|----------|
 | **PricewaterhouseCoopers** | Beca en Ciencias Actuariales 2027 (FY28) | Madrid, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-760438WD?s=gh-spain-internships-2027) |
 | **HP Inc** | Data Analyst Intern | Sant Cugat del Valles | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI3248?s=gh-spain-internships-2027) |
-| **PricewaterhouseCoopers** | Consultoría   Prácticas Strategy& Growth Revenue & Customer Analytics (RGM)   Septiembre 2026 | Madrid, ES | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-741464WD?s=gh-spain-internships-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -154,8 +153,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **PricewaterhouseCoopers** | TLS  New Joiners Beca Legal  Master habilitante Septiembre 2027 | Madrid, ES | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-762094WD?s=gh-spain-internships-2027) |
-| **TD Synnex** | Trainee Mobile & Consumer Electronics | Barcelona | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R53969?s=gh-spain-internships-2027) |
+| **PricewaterhouseCoopers** | TLS  New Joiners Beca Legal  Master habilitante Septiembre 2027 | Madrid, ES | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-762094WD?s=gh-spain-internships-2027) |
+| **TD Synnex** | Trainee Mobile & Consumer Electronics | Barcelona | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R53969?s=gh-spain-internships-2027) |
 | **Veolia Environnement SA** | Ingeniero/a junior de Herramientas Digitales. | Madrid, ES | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000149794728?s=gh-spain-internships-2027) |
 | **Bureau Veritas** | Córdoba Beca Administración de Personal Córd | Spain | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/successfactors-bureauveritas-1437413533?s=gh-spain-internships-2027) |
 | **Bosch Group** | Estudiante en prácticas – Departamento de Logística LOG/IPN | Madrid, ES | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000149613311?s=gh-spain-internships-2027) |
@@ -309,7 +308,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 162 current opportunities from 47 companies**
+**🎯 149 current opportunities from 47 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
