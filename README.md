@@ -145,9 +145,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **KBR** | UABOS Spain LN: Food Service Storeroom Clerk (Contingency) | Seville | 3m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2130269?s=gh-spain-internships-2027) |
-| **KBR** | UABOS Spain LN: Food Service Cashier (Contingency) | Seville | 3m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2130266?s=gh-spain-internships-2027) |
-| **HP Inc** | Junior Inside Presales Computing Technical Consultant (Greek Speaker) | Sant Cugat del Valles | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-3166531?s=gh-spain-internships-2027) |
+| **KBR** | UABOS Spain LN: Food Service Storeroom Clerk (Contingency) | Seville | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2130269?s=gh-spain-internships-2027) |
+| **KBR** | UABOS Spain LN: Food Service Cashier (Contingency) | Seville | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2130266?s=gh-spain-internships-2027) |
+| **HP Inc** | Junior Inside Presales Computing Technical Consultant (Greek Speaker) | Sant Cugat del Valles | 31m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-3166531?s=gh-spain-internships-2027) |
 | **Sopra Steria** | HR Business Partner Junior | Barcelona, ES | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000150306721?s=gh-spain-internships-2027) |
 | **ABB** | Internship:Implementation of the Salesforce-ServIS-SAP-FSL Pulsar data control system for Power... | Madrid | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00047838?s=gh-spain-internships-2027) |
 | **ABB** | Internship:Electrification/Smart Building/Energy Distribution | Madrid | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00047826?s=gh-spain-internships-2027) |
@@ -161,7 +161,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Veolia Environnement SA** | Ingeniero/a junior de Herramientas Digitales. | Madrid, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000149794728?s=gh-spain-internships-2027) |
 | **Bureau Veritas** | Córdoba Beca Administración de Personal Córd | Spain | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/successfactors-bureauveritas-1437413533?s=gh-spain-internships-2027) |
 | **Abbott** | QA Granada Tech Center- Intern - ANS | Spain - Granada, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31157875?s=gh-spain-internships-2027) |
-| **Eurofins** | Junior Help Desk Engineer (Spanish, English and French) | Barcelona, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000149577580?s=gh-spain-internships-2027) |
+| **Eurofins** | Junior Help Desk Engineer (Spanish, English and French) | Barcelona, ES | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000149577580?s=gh-spain-internships-2027) |
 | **PricewaterhouseCoopers** | Assurance   Trainee FY27 A Coruña | A Coruña, ES | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-762250WD?s=gh-spain-internships-2027) |
 | **HP Inc** | Junior Inside Account Representative - Catalan speaker | Las Rozas | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-3168035?s=gh-spain-internships-2027) |
 | **HP Inc** | Junior Inside Account Representative | Las Rozas | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-3168034?s=gh-spain-internships-2027) |
