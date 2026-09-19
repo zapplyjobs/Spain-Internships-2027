@@ -18,7 +18,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Total%20Internships-192-3FB950?style=flat&logo=briefcase" height="30" alt="Total Internships">
   <img src="https://img.shields.io/badge/Operations%20%26%20Support-18-2F81F7?style=flat&logo=briefcase" height="30" alt="Operations & Support">
-  <img src="https://img.shields.io/badge/Companies-46-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
+  <img src="https://img.shields.io/badge/Companies-45-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
 </p>
 
@@ -154,22 +154,21 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **Nissan** | Environmental & Sustainability Engineering, Graduate Trainee | Cantabria, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-alliance-nissanjobs-R00213378?s=gh-spain-internships-2027) |
+| **Nissan** | Production & Industrial Automation Engineering, Graduate Trainee | Cantabria, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-alliance-nissanjobs-R00213377?s=gh-spain-internships-2027) |
+| **Johnson & Johnson** | Tendering & Sales Analyst Trainee | Madrid | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-097743?s=gh-spain-internships-2027) |
 | **HP Inc** | Junior Inside Presales Computing Technical Consultant (Greek Speaker) | Sant Cugat del Valles | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-3166531?s=gh-spain-internships-2027) |
 | **PricewaterhouseCoopers** | Programa de becas Auditoria IT Bilbao  (FY27) | Bilbao, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-763271WD?s=gh-spain-internships-2027) |
 | **PricewaterhouseCoopers** | Programa de becas Auditoria IT Valencia (FY27) | Valencia, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-763254WD?s=gh-spain-internships-2027) |
 | **Merck & Co.** | Beca en Análisis y Planificación Financiera | ESP - Madrid - Madrid, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R418391?s=gh-spain-internships-2027) |
-| **Nissan** | Environmental & Sustainability Engineering, Graduate Trainee | Cantabria, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-alliance-nissanjobs-R00213378?s=gh-spain-internships-2027) |
-| **Nissan** | Production & Industrial Automation Engineering, Graduate Trainee | Cantabria, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-alliance-nissanjobs-R00213377?s=gh-spain-internships-2027) |
 | **KBR** | UABOS Spain LN: Food Service Storeroom Clerk (Contingency) | Seville | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2130269?s=gh-spain-internships-2027) |
 | **KBR** | UABOS Spain LN: Food Service Cashier (Contingency) | Seville | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2130266?s=gh-spain-internships-2027) |
-| **Johnson & Johnson** | Tendering & Sales Analyst Trainee | Madrid | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-097743?s=gh-spain-internships-2027) |
 | **Sopra Steria** | HR Business Partner Junior | Barcelona, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000150306721?s=gh-spain-internships-2027) |
 | **Medtronic** | Sales Analyst Intern | Madrid | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-medtronic-medtroniccareers-R76963?s=gh-spain-internships-2027) |
 | **TD Synnex** | Trainee Networking | Alcobendas | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R56018?s=gh-spain-internships-2027) |
 | **ABB** | Internship:Implementation of the Salesforce-ServIS-SAP-FSL Pulsar data control system for Power... | Madrid | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00047838?s=gh-spain-internships-2027) |
 | **ABB** | Internship:Electrification/Smart Building/Energy Distribution | Madrid | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00047826?s=gh-spain-internships-2027) |
 | **Bureau Veritas** | A Coruña BECARIOA PRL A Co | Spain | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/successfactors-bureauveritas-1437961233?s=gh-spain-internships-2027) |
-| **Coca-Cola** | Coca-Cola Ignite Intern - Finance | Spain - Madrid, ES | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-coke-coca-cola-careers-R-139250?s=gh-spain-internships-2027) |
 | **TD Synnex** | Trainee Mobile & Consumer Electronics | Barcelona | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R53969?s=gh-spain-internships-2027) |
 | **GE Vernova** | Risk Modeling Analysis Intern | Madrid, ES | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5051537?s=gh-spain-internships-2027) |
 | **PricewaterhouseCoopers** | Assurance   Beca Auditoria Financiera FY27 Palma de Mallorca | Palma de Mallorca, ES | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-762877WD?s=gh-spain-internships-2027) |
@@ -310,7 +309,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 192 current opportunities from 46 companies**
+**🎯 192 current opportunities from 45 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
