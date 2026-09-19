@@ -71,8 +71,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Datadog** | Software Engineering Intern | Madrid | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-datadog-8114161?s=gh-spain-internships-2027) |
 | **Thales** | DevOps Intern | Madrid, ES | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thales-careers-R0336368?s=gh-spain-internships-2027) |
 | **Thales** | Software Engineering Intern | Madrid, ES | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thales-careers-R0336381?s=gh-spain-internships-2027) |
-| **Boeing** | Intern - Software Engineering | ESP - Madrid | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026522576?s=gh-spain-internships-2027) |
 | **Marvell** | Software Engineer Intern | Madrid, ES | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-marvell-marvellcareers-2502346?s=gh-spain-internships-2027) |
+| **Boeing** | Intern - Software Engineering | ESP - Madrid | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026522576?s=gh-spain-internships-2027) |
 | **Affirm** | Software Engineer I, Fullstack (Servicing International) | Not specified | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-affirm-7809763003?s=gh-spain-internships-2027) |
 
 <p align="center">Apply for more jobs at</p>
@@ -154,16 +154,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **KBR** | UABOS Spain LN: Food Service Storeroom Clerk (Contingency) | Seville | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2130269?s=gh-spain-internships-2027) |
+| **KBR** | UABOS Spain LN: Food Service Cashier (Contingency) | Seville | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2130266?s=gh-spain-internships-2027) |
+| **Nissan** | Environmental & Sustainability Engineering, Graduate Trainee | Cantabria, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-alliance-nissanjobs-R00213378?s=gh-spain-internships-2027) |
+| **Nissan** | Production & Industrial Automation Engineering, Graduate Trainee | Cantabria, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-alliance-nissanjobs-R00213377?s=gh-spain-internships-2027) |
 | **HP Inc** | Junior Inside Presales Computing Technical Consultant (Greek Speaker) | Sant Cugat del Valles | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-3166531?s=gh-spain-internships-2027) |
 | **PricewaterhouseCoopers** | Programa de becas Auditoria IT Bilbao  (FY27) | Bilbao, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-763271WD?s=gh-spain-internships-2027) |
 | **PricewaterhouseCoopers** | Programa de becas Auditoria IT Valencia (FY27) | Valencia, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-763254WD?s=gh-spain-internships-2027) |
 | **Johnson & Johnson** | Tendering & Sales Analyst Trainee | Madrid | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-097743?s=gh-spain-internships-2027) |
-| **Nissan** | Environmental & Sustainability Engineering, Graduate Trainee | Cantabria, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-alliance-nissanjobs-R00213378?s=gh-spain-internships-2027) |
-| **Nissan** | Production & Industrial Automation Engineering, Graduate Trainee | Cantabria, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-alliance-nissanjobs-R00213377?s=gh-spain-internships-2027) |
 | **Merck & Co.** | Beca en Análisis y Planificación Financiera | ESP - Madrid - Madrid, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R418391?s=gh-spain-internships-2027) |
 | **Sopra Steria** | HR Business Partner Junior | Barcelona, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000150306721?s=gh-spain-internships-2027) |
-| **KBR** | UABOS Spain LN: Food Service Storeroom Clerk (Contingency) | Seville | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2130269?s=gh-spain-internships-2027) |
-| **KBR** | UABOS Spain LN: Food Service Cashier (Contingency) | Seville | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2130266?s=gh-spain-internships-2027) |
 | **Medtronic** | Sales Analyst Intern | Madrid | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-medtronic-medtroniccareers-R76963?s=gh-spain-internships-2027) |
 | **TD Synnex** | Trainee Networking | Alcobendas | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R56018?s=gh-spain-internships-2027) |
 | **Bureau Veritas** | A Coruña BECARIOA PRL A Co | Spain | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/successfactors-bureauveritas-1437961233?s=gh-spain-internships-2027) |
