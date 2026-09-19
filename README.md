@@ -154,7 +154,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Johnson & Johnson** | Tendering & Sales Analyst Trainee | Madrid | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-097743?s=gh-spain-internships-2027) |
+| **Johnson & Johnson** | Tendering & Sales Analyst Trainee | Madrid | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-097743?s=gh-spain-internships-2027) |
 | **Nissan** | Environmental & Sustainability Engineering, Graduate Trainee | Cantabria, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-alliance-nissanjobs-R00213378?s=gh-spain-internships-2027) |
 | **Nissan** | Production & Industrial Automation Engineering, Graduate Trainee | Cantabria, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-alliance-nissanjobs-R00213377?s=gh-spain-internships-2027) |
 | **PricewaterhouseCoopers** | Programa de becas Auditoria IT Bilbao  (FY27) | Bilbao, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-763271WD?s=gh-spain-internships-2027) |
@@ -171,7 +171,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **ABB** | Internship:Electrification/Smart Building/Energy Distribution | Madrid | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00047826?s=gh-spain-internships-2027) |
 | **PricewaterhouseCoopers** | TLS  New Joiners Beca Legal  Master habilitante Septiembre 2027 | Madrid, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-762094WD?s=gh-spain-internships-2027) |
 | **TD Synnex** | Trainee Mobile & Consumer Electronics | Barcelona | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R53969?s=gh-spain-internships-2027) |
-| **GE Vernova** | Risk Modeling Analysis Intern | Madrid, ES | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5051537?s=gh-spain-internships-2027) |
+| **GE Vernova** | Risk Modeling Analysis Intern | Madrid, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5051537?s=gh-spain-internships-2027) |
 | **Abbott** | Sales & Therapy Specialist Intern - Madrid | Spain - Madrid, ES | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31162315?s=gh-spain-internships-2027) |
 | **Coca-Cola** | Coca-Cola Ignite Intern - Finance | Spain - Madrid, ES | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-coke-coca-cola-careers-R-139250?s=gh-spain-internships-2027) |
 | **Veolia Environnement SA** | Ingeniero/a junior de Herramientas Digitales. | Madrid, ES | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000149794728?s=gh-spain-internships-2027) |
