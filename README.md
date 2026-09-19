@@ -119,7 +119,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Veolia Environnement SA** | Ingeniero junior de soporte de Soluciones Digitales. (Energía, Residuos y Agua Industrial). | Madrid, ES | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000150450958?s=gh-spain-internships-2027) |
+| **Veolia Environnement SA** | Ingeniero junior de soporte de Soluciones Digitales. (Energía, Residuos y Agua Industrial). | Madrid, ES | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000150450958?s=gh-spain-internships-2027) |
 | **Dandy** | Clinical Support Team Lead (Spain) | Spain - Barcelona | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-dandy-fc712fc1-3700-4f74-9f4b-6c7f46fbec19?s=gh-spain-internships-2027) |
 | **TD Synnex** | Sales Operations Trainee | Alcobendas | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R54643?s=gh-spain-internships-2027) |
 | **Bureau Veritas** | LEIOA Beca Soporte administrativoplanificación Bizk | Spain | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/successfactors-bureauveritas-1388639633?s=gh-spain-internships-2027) |
@@ -145,8 +145,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **KBR** | UABOS Spain LN: Food Service Storeroom Clerk (Contingency) | Seville | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2130269?s=gh-spain-internships-2027) |
-| **KBR** | UABOS Spain LN: Food Service Cashier (Contingency) | Seville | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2130266?s=gh-spain-internships-2027) |
+| **KBR** | UABOS Spain LN: Food Service Storeroom Clerk (Contingency) | Seville | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2130269?s=gh-spain-internships-2027) |
+| **KBR** | UABOS Spain LN: Food Service Cashier (Contingency) | Seville | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2130266?s=gh-spain-internships-2027) |
 | **HP Inc** | Junior Inside Presales Computing Technical Consultant (Greek Speaker) | Sant Cugat del Valles | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-3166531?s=gh-spain-internships-2027) |
 | **Nissan** | Environmental & Sustainability Engineering, Graduate Trainee | Cantabria, ES | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-alliance-nissanjobs-R00213378?s=gh-spain-internships-2027) |
 | **Nissan** | Production & Industrial Automation Engineering, Graduate Trainee | Cantabria, ES | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-alliance-nissanjobs-R00213377?s=gh-spain-internships-2027) |
@@ -200,6 +200,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Sony** | HR Information Systems Internship | Barcelona, ES | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sonyglobal-sonyglobalcareers-JR-119519?s=gh-spain-internships-2027) |
 | **Air Liquide** | INTERNSHIP COMUNICACIÓN | Spain | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-airliquidehr-airliquideexternalcareer-R10099127?s=gh-spain-internships-2027) |
 | **Analog Devices** | FY27  Engineering Intern – Hardware, Software & Systems | Spain | 4w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R265309?s=gh-spain-internships-2027) |
+| **Ardian** | Infrastructure Intern - January 2027   Madrid (M/F) | Madrid, ES +1 more | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ardian-ardiancareers-JR1002198?s=gh-spain-internships-2027) |
 | **PTC** | Onshape Business Development Intern | Barcelona | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ptc-ptc-JR112416?s=gh-spain-internships-2027) |
 | **PTC** | Sales Compliance Intern | Barcelona | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ptc-ptc-JR112469?s=gh-spain-internships-2027) |
 | **PTC** | Business Development Intern - French Speaker | Barcelona | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ptc-ptc-JR112466?s=gh-spain-internships-2027) |
@@ -211,7 +212,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Philips** | Internship: Demand Planner Intern | Madrid, ES | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-588383?s=gh-spain-internships-2027) |
 | **Biogen** | HR Intern | Madrid | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-biibhr-external-REQ23755?s=gh-spain-internships-2027) |
 | **Biogen** | Medical Intern | Madrid | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-biibhr-external-REQ23749?s=gh-spain-internships-2027) |
-| **Ardian** | Infrastructure Intern - January 2027   Madrid (M/F) | Madrid, ES +1 more | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ardian-ardiancareers-JR1002198?s=gh-spain-internships-2027) |
 | **Stanley Black & Decker** | Service Intern (Postventa) | Bergueda | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sbdinc-stanley-black-decker-career-site-REQ-1000049491?s=gh-spain-internships-2027) |
 | **GE Vernova** | Human Resources Intern | Barcelona, ES | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5048387?s=gh-spain-internships-2027) |
 | **GE Vernova** | Intern BIO Technical office Team | Zamudio, ES | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5041879?s=gh-spain-internships-2027) |
