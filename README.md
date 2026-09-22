@@ -126,7 +126,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **ABB** | Internship: Purchasing department support | Trapagaran | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00038652?s=gh-spain-internships-2027) |
+| **ABB** | Internship: Purchasing department support | Trapagaran | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00038652?s=gh-spain-internships-2027) |
 | **ABB** | Internship: HSE department support | Trapagaran | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00038950?s=gh-spain-internships-2027) |
 | **AST SpaceMobile** | Satellite Operations Engineer Junior | Barcelona | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-astspacemobile-4736505005?s=gh-spain-internships-2027) |
 | **Philips** | Internship: General Sales Support Intern | Madrid, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-581291?s=gh-spain-internships-2027) |
@@ -157,11 +157,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **PricewaterhouseCoopers** | Tax & Legal - Beca TRS Madrid 2026 | Madrid, ES | 26m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-763701WD?s=gh-spain-internships-2027) |
-| **PricewaterhouseCoopers** | Consultoria de Transacciones   Edge Graduate Programme 2027 - Barcelona | Barcelona, ES | 26m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-755073WD?s=gh-spain-internships-2027) |
-| **PricewaterhouseCoopers** | Consultoria de Transacciones   Edge Graduate Programme 2027 - Madrid | Madrid, ES +1 more | 26m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-755061WD?s=gh-spain-internships-2027) |
+| **PricewaterhouseCoopers** | Tax & Legal - Beca TRS Madrid 2026 | Madrid, ES | 35m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-763701WD?s=gh-spain-internships-2027) |
+| **PricewaterhouseCoopers** | Consultoria de Transacciones   Edge Graduate Programme 2027 - Barcelona | Barcelona, ES | 35m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-755073WD?s=gh-spain-internships-2027) |
+| **PricewaterhouseCoopers** | Consultoria de Transacciones   Edge Graduate Programme 2027 - Madrid | Madrid, ES +1 more | 35m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-755061WD?s=gh-spain-internships-2027) |
 | **Nike** | Nike Retail Store Associate (Athlete)- Contrato a media jornada 20H - Nike Store Gran Canarias | NFS GRAN CANARIAS, ES | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nike-nke-R-92565?s=gh-spain-internships-2027) |
-| **NBCUniversal** | Finance Trainee | Madrid, ES | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-NBCUniversal3-744000150960935?s=gh-spain-internships-2027) |
+| **NBCUniversal** | Finance Trainee | Madrid, ES | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-NBCUniversal3-744000150960935?s=gh-spain-internships-2027) |
 | **Merck & Co.** | Beca Marketing Pulmón | ESP - Madrid - Madrid, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R418640?s=gh-spain-internships-2027) |
 | **Merck & Co.** | Beca Marketing plataforma interacción omnicanal | ESP - Madrid - Madrid, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R418643?s=gh-spain-internships-2027) |
 | **TD Synnex** | Prácticas Máster en Prevención de Riesgos Laborales – QEHS | Guadalajara | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R56547?s=gh-spain-internships-2027) |
