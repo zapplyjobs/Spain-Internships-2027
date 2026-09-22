@@ -157,9 +157,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **PricewaterhouseCoopers** | Consultoría Estratégica - Economics   Junior   Madrid | Madrid, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-711443WD?s=gh-spain-internships-2027) |
+| **PricewaterhouseCoopers** | Consultoría Estratégica - Economics   Junior   Madrid | Madrid, ES | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-711443WD?s=gh-spain-internships-2027) |
 | **Nike** | Nike Retail Store Associate (Athlete)- Contrato a media jornada 20H - Nike Store Gran Canarias | NFS GRAN CANARIAS, ES | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nike-nke-R-92565?s=gh-spain-internships-2027) |
-| **NBCUniversal** | Finance Trainee | Madrid, ES | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-NBCUniversal3-744000150960935?s=gh-spain-internships-2027) |
+| **NBCUniversal** | Finance Trainee | Madrid, ES | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-NBCUniversal3-744000150960935?s=gh-spain-internships-2027) |
 | **Air Liquide** | Business Analyst intern | Spain | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-airliquidehr-airliquideexternalcareer-R10101594?s=gh-spain-internships-2027) |
 | **Johnson & Johnson** | Market Access Intern | Madrid | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-100317?s=gh-spain-internships-2027) |
 | **PricewaterhouseCoopers** | Assurance   Beca Auditoria Financiera FY27 Oviedo | Oviedo, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-763074WD?s=gh-spain-internships-2027) |
