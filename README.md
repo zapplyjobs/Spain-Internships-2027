@@ -159,7 +159,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Nike** | Nike Retail Associate (Athlete) - NIKE ZARAGOZA - Contrato Permanente - Part Time 16h/semana | Zaragoza | 34m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nike-nke-R-91184?s=gh-spain-internships-2027) |
+| **Nike** | Nike Retail Associate (Athlete) - NIKE ZARAGOZA - Contrato Permanente - Part Time 16h/semana | Zaragoza | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nike-nke-R-91184?s=gh-spain-internships-2027) |
 | **Carrier Global** | Becario/a de Aprovisionamiento & Planificación | Narciso Monturiol Poligono... | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30198704?s=gh-spain-internships-2027) |
 | **PricewaterhouseCoopers** | TLS  New Joiners Beca Legal  Master habilitante Septiembre 2027 | Madrid, ES | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-762094WD?s=gh-spain-internships-2027) |
 | **Sopra Steria** | Operador/a IT junior con B2 de inglés | Madrid, ES | 8h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000151638479?s=gh-spain-internships-2027) |
@@ -173,7 +173,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **PricewaterhouseCoopers** | Consultoria de Transacciones   Edge Graduate Programme 2027 - Barcelona | Barcelona, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-755073WD?s=gh-spain-internships-2027) |
 | **Nike** | Nike Retail Store Associate (Athlete)- Contrato a media jornada 20H - Nike Store Gran Canarias | NFS GRAN CANARIAS, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nike-nke-R-92565?s=gh-spain-internships-2027) |
 | **NBCUniversal** | Finance Trainee | Madrid, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-NBCUniversal3-744000150960935?s=gh-spain-internships-2027) |
-| **Scopely** | Associate Compensation Specialist, Global Compensation Programs | ES - Barcelona | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-scopely-5427322008?s=gh-spain-internships-2027) |
+| **Scopely** | Associate Compensation Specialist, Global Compensation Programs | ES - Barcelona | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-scopely-5427322008?s=gh-spain-internships-2027) |
 | **Merck & Co.** | Beca Marketing Pulmón | ESP - Madrid - Madrid, ES | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R418640?s=gh-spain-internships-2027) |
 | **Merck & Co.** | Beca Marketing plataforma interacción omnicanal | ESP - Madrid - Madrid, ES | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R418643?s=gh-spain-internships-2027) |
 | **Johnson & Johnson** | Market Access Intern | Madrid | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-100317?s=gh-spain-internships-2027) |
