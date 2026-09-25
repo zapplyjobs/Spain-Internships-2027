@@ -98,7 +98,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **GE Healthcare** | Intern - Service Analytics | Madrid, ES | 54m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gehc-gehc-externalsite-R4046429?s=gh-spain-internships-2027) |
+| **GE Healthcare** | Intern - Service Analytics | Madrid, ES | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gehc-gehc-externalsite-R4046429?s=gh-spain-internships-2027) |
 | **Agilent Technologies** | Commercial Analytics & Sales Operations Intern | Spain-Barcelona, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-agilent-agilent-student-careers-4040012?s=gh-spain-internships-2027) |
 | **TD Synnex** | Prácticas en BI - Data Analytics / E-Commerce (jornada completa) | Barcelona | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R53955?s=gh-spain-internships-2027) |
 | **HP Inc** | Data Analyst Intern | Sant Cugat del Valles | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI3248?s=gh-spain-internships-2027) |
@@ -159,10 +159,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Carrier Global** | Becario/a de Aprovisionamiento & Planificación | Narciso Monturiol Poligono... | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30198704?s=gh-spain-internships-2027) |
+| **Carrier Global** | Becario/a de Aprovisionamiento & Planificación | Narciso Monturiol Poligono... | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30198704?s=gh-spain-internships-2027) |
 | **Nike** | Nike Retail Associate (Athlete) - NIKE ZARAGOZA - Contrato Permanente - Part Time 16h/semana | Zaragoza | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nike-nke-R-91184?s=gh-spain-internships-2027) |
 | **PricewaterhouseCoopers** | TLS  New Joiners Beca Legal  Master habilitante Septiembre 2027 | Madrid, ES | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-762094WD?s=gh-spain-internships-2027) |
-| **Sopra Steria** | Operador/a IT junior con B2 de inglés | Madrid, ES | 10h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000151638479?s=gh-spain-internships-2027) |
+| **Sopra Steria** | Operador/a IT junior con B2 de inglés | Madrid, ES | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000151638479?s=gh-spain-internships-2027) |
 | **Agilent Technologies** | Internal Communications and Digital Marketing Intern | Spain-Remote Location-Barcelona | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-agilent-agilent-student-careers-4039891?s=gh-spain-internships-2027) |
 | **PTC** | Sales Compliance Intern - German Speaker | Barcelona | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ptc-ptc-JR112469?s=gh-spain-internships-2027) |
 | **Thales** | Threat Hunting & Incident Response Intern | Madrid Emilio Vargas, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thales-careers-R0339191?s=gh-spain-internships-2027) |
@@ -181,11 +181,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Air Liquide** | Business Analyst intern | Spain | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-airliquidehr-airliquideexternalcareer-R10101594?s=gh-spain-internships-2027) |
 | **Celonis** | Customer Advocacy  & Customer Marketing Graduated Internship (12 months) | Madrid | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-celonis-7998286003?s=gh-spain-internships-2027) |
 | **Veolia Environnement SA** | Ingeniero/a Energía o Electricidad Junior | Ontinyent, ES | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000150628629?s=gh-spain-internships-2027) |
+| **Nissan** | Environmental & Sustainability Engineering, Graduate Trainee | Cantabria, ES | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-alliance-nissanjobs-R00213378?s=gh-spain-internships-2027) |
+| **Nissan** | Production & Industrial Automation Engineering, Graduate Trainee | Cantabria, ES | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-alliance-nissanjobs-R00213377?s=gh-spain-internships-2027) |
 | **HP Inc** | Junior Inside Presales Computing Technical Consultant (Greek Speaker) | Sant Cugat del Valles | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-3166531?s=gh-spain-internships-2027) |
 | **KBR** | UABOS Spain LN: Food Service Storeroom Clerk (Contingency) | Seville | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2130269?s=gh-spain-internships-2027) |
 | **KBR** | UABOS Spain LN: Food Service Cashier (Contingency) | Seville | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kbr-kbr-careers-R2130266?s=gh-spain-internships-2027) |
-| **Nissan** | Environmental & Sustainability Engineering, Graduate Trainee | Cantabria, ES | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-alliance-nissanjobs-R00213378?s=gh-spain-internships-2027) |
-| **Nissan** | Production & Industrial Automation Engineering, Graduate Trainee | Cantabria, ES | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-alliance-nissanjobs-R00213377?s=gh-spain-internships-2027) |
 | **Johnson & Johnson** | Tendering & Sales Analyst Trainee | Madrid | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-097743?s=gh-spain-internships-2027) |
 | **Merck & Co.** | Beca en Análisis y Planificación Financiera | ESP - Madrid - Madrid, ES | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R418391?s=gh-spain-internships-2027) |
 | **Sopra Steria** | HR Business Partner Junior | Barcelona, ES | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000150306721?s=gh-spain-internships-2027) |
@@ -204,8 +204,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Abbott** | QA Granada Tech Center- Intern - ANS | Spain - Granada, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31157875?s=gh-spain-internships-2027) |
 | **Bureau Veritas** | SEVILLA Ingenieroa Industrial Seguridad Industrial (junior) Sevi | Spain | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/successfactors-bureauveritas-1419595933?s=gh-spain-internships-2027) |
 | **Fresenius Medical Care** | Intern program 360 | Tres Cantos | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freseniusmedicalcare-fme-R0261733?s=gh-spain-internships-2027) |
-| **American Tower** | NetOps Intern (Maintenance) | Madrid | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-american-tower-2937?s=gh-spain-internships-2027) |
 | **Vertiv** | Junior Customer Engineer Thermal | Madrid | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-vertiv-20281626?s=gh-spain-internships-2027) |
+| **American Tower** | NetOps Intern (Maintenance) | Madrid | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-american-tower-2937?s=gh-spain-internships-2027) |
 | **Celonis** | Intern Strategic Program Management | Madrid | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-celonis-7990967003?s=gh-spain-internships-2027) |
 | **Intuitive** | da Vinci Clinical Territory Associate | Vitoria-Gasteiz, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000149026670?s=gh-spain-internships-2027) |
 | **Intuitive** | da Vinci Clinical Territory Associate | Tarragona, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Intuitive-744000144758835?s=gh-spain-internships-2027) |
