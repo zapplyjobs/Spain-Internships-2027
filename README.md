@@ -160,12 +160,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **PricewaterhouseCoopers** | TLS   Beca Laboral Las Palmas 2026 | Las Palmas, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-764874WD?s=gh-spain-internships-2027) |
-| **TD Synnex** | AP Trainee | Barcelona | 24m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R54880?s=gh-spain-internships-2027) |
+| **TD Synnex** | AP Trainee | Barcelona | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R54880?s=gh-spain-internships-2027) |
+| **PricewaterhouseCoopers** | TLS   Beca Laboral Las Palmas 2026 | Las Palmas, ES | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-764874WD?s=gh-spain-internships-2027) |
 | **Bosch Group** | Estudiante en prácticas -- departamento RBEM/MSS1 | Madrid, ES | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000152349174?s=gh-spain-internships-2027) |
 | **Bosch Group** | Prácticas en logística - Componentes y sensores | Madrid, ES | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000152211340?s=gh-spain-internships-2027) |
-| **Air Liquide** | Enterprise Architect Assistant Internship | Spain | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-airliquidehr-airliquideexternalcareer-R10101998?s=gh-spain-internships-2027) |
 | **TD Synnex** | Costumer Service Trainee | Barcelona | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R56019?s=gh-spain-internships-2027) |
+| **Air Liquide** | Enterprise Architect Assistant Internship | Spain | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-airliquidehr-airliquideexternalcareer-R10101998?s=gh-spain-internships-2027) |
 | **Merck & Co.** | Beca Marketing Hipertensión Pulmonar | ESP - Madrid - Madrid, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R418897?s=gh-spain-internships-2027) |
 | **Nike** | Nike Retail Store Associate (Athlete)-Contrato de duracion determinada 30H-Nike Store Gran Canarias | NFS GRAN CANARIAS, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nike-nke-R-92813?s=gh-spain-internships-2027) |
 | **Nike** | Nike Retail Associate (Athlete) - NIKE ZARAGOZA - Contrato Permanente - Part Time 16h/semana | Zaragoza | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nike-nke-R-92807?s=gh-spain-internships-2027) |
@@ -220,8 +220,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Carrier Global** | Becario Calidad Proceso | Narciso Monturiol Poligono... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30198440?s=gh-spain-internships-2027) |
 | **Thales** | New Product Engineer Intern | Madrid, ES | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thales-careers-R0337003?s=gh-spain-internships-2027) |
 | **Carrier Global** | Becario Calidad Cliente | Narciso Monturiol Poligono... | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30198442?s=gh-spain-internships-2027) |
-| **Abbott** | Government Affairs Intern - Madrid | Spain - Madrid, ES | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31160131?s=gh-spain-internships-2027) |
 | **GE Vernova** | Becario Materiales | Zamudio, ES | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5051902?s=gh-spain-internships-2027) |
+| **Abbott** | Government Affairs Intern - Madrid | Spain - Madrid, ES | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abbott-abbottcareers-31160131?s=gh-spain-internships-2027) |
 | **Johnson & Johnson** | Medical Affairs Internship | Madrid - Lafinca, ES | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-085553?s=gh-spain-internships-2027) |
 | **Disney** | Social Media Intern | Madrid | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-disney-disneycareer-10152474?s=gh-spain-internships-2027) |
 | **Cisco** | Sales Legal Intern | Madrid | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2024774?s=gh-spain-internships-2027) |
