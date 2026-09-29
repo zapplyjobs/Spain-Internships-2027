@@ -162,9 +162,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **PricewaterhouseCoopers** | TLS   Beca Laboral Las Palmas 2026 | Las Palmas, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-764874WD?s=gh-spain-internships-2027) |
-| **TD Synnex** | AP Trainee | Barcelona | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R54880?s=gh-spain-internships-2027) |
-| **NBCUniversal** | Digital Trainee | Madrid, ES | 18m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-NBCUniversal3-744000152455719?s=gh-spain-internships-2027) |
+| **PricewaterhouseCoopers** | TLS   Beca Laboral Las Palmas 2026 | Las Palmas, ES | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-764874WD?s=gh-spain-internships-2027) |
+| **TD Synnex** | AP Trainee | Barcelona | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R54880?s=gh-spain-internships-2027) |
+| **NBCUniversal** | Digital Trainee | Madrid, ES | 28m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-NBCUniversal3-744000152455719?s=gh-spain-internships-2027) |
 | **Bosch Group** | Estudiante en prácticas -- departamento RBEM/MSS1 | Madrid, ES | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000152349174?s=gh-spain-internships-2027) |
 | **Bosch Group** | Prácticas en logística - Componentes y sensores | Madrid, ES | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000152211340?s=gh-spain-internships-2027) |
 | **TD Synnex** | Costumer Service Trainee | Barcelona | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R56019?s=gh-spain-internships-2027) |
@@ -184,7 +184,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Hilton** | Food and Beverage Intern | Madrid | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hilton-224825?s=gh-spain-internships-2027) |
 | **Hilton** | Group, Conference and Events intern | Madrid | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hilton-224830?s=gh-spain-internships-2027) |
 | **Sopra Steria** | Beca Doble Grado ADE + Informatica | València, ES | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000151647139?s=gh-spain-internships-2027) |
-| **Sopra Steria** | Operador/a IT junior con B2 de inglés | Madrid, ES | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000151638479?s=gh-spain-internships-2027) |
+| **Sopra Steria** | Operador/a IT junior con B2 de inglés | Madrid, ES | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000151638479?s=gh-spain-internships-2027) |
 | **Carrier Global** | Becario/a de Aprovisionamiento & Planificación | Narciso Monturiol Poligono... | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30198704?s=gh-spain-internships-2027) |
 | **Veolia Environnement SA** | Becario/a de Ingeniería - Eficiencia Energética | Madrid, ES | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000151415129?s=gh-spain-internships-2027) |
 | **Agilent Technologies** | Internal Communications and Digital Marketing Intern | Spain-Remote Location-Barcelona | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-agilent-agilent-student-careers-4039891?s=gh-spain-internships-2027) |
