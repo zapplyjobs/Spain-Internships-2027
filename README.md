@@ -16,7 +16,7 @@
 <p align="center">🚀 Internships and entry-level programs across Spain in tech, finance, healthcare, and more. Postings are shown in their original language, refreshed daily.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Internships-254-3FB950?style=flat&logo=briefcase" height="30" alt="Total Internships">
+  <img src="https://img.shields.io/badge/Total%20Internships-253-3FB950?style=flat&logo=briefcase" height="30" alt="Total Internships">
   <img src="https://img.shields.io/badge/Operations%20%26%20Support-26-2F81F7?style=flat&logo=briefcase" height="30" alt="Operations & Support">
   <img src="https://img.shields.io/badge/Companies-47-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
@@ -130,7 +130,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Philips** | Internship: Customer Care Support Intern | Madrid, ES | 22m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-593156?s=gh-spain-internships-2027) |
+| **Philips** | Internship: Customer Care Support Intern | Madrid, ES | 31m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-593156?s=gh-spain-internships-2027) |
 | **Veolia Environnement SA** | Técnico/a Junior de Asistencia Técnica en Fontanería | Madrid, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000153667549?s=gh-spain-internships-2027) |
 | **TD Synnex** | Software Operations Trainee | Barcelona | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R56853?s=gh-spain-internships-2027) |
 | **ABB** | Internship: design engineering department support (Mechanical Engineering) | Trapagaran | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00042599?s=gh-spain-internships-2027) |
@@ -164,13 +164,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Nike** | Nike Retail Store Associate (Athlete) - Contrato 16 H Navidad - Nike Store Madrid Parque Oeste | Madrid | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nike-nke-R-95035?s=gh-spain-internships-2027) |
+| **Nike** | Nike Retail Store Associate (Athlete) - Contrato 16 H Navidad - Nike Store Madrid Parque Oeste | Madrid | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nike-nke-R-95035?s=gh-spain-internships-2027) |
 | **PricewaterhouseCoopers** | Programa de becas Fondos Europeos Octubre   Sevilla ASS FY27 | Sevilla, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-766508WD?s=gh-spain-internships-2027) |
 | **PricewaterhouseCoopers** | TLS   Beca Laboral Las Palmas de Gran Canaria | Las Palmas, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-764874WD?s=gh-spain-internships-2027) |
 | **Johnson & Johnson** | Government Affairs & Policy Internship | Madrid | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-102114?s=gh-spain-internships-2027) |
 | **Santander** | Cost & Budget Analysis & Control Analyst I | Boadilla del Monte, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-santander-santandercareers-Req1614991?s=gh-spain-internships-2027) |
-| **Hilton** | Groups, Meetings & Events Intern (February 2027) | Barcelona | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hilton-226271?s=gh-spain-internships-2027) |
 | **Fortinet** | Field Marketing Intern (Marketing Specialist) | Madrid | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-fortinet-24551?s=gh-spain-internships-2027) |
+| **Hilton** | Groups, Meetings & Events Intern (February 2027) | Barcelona | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hilton-226271?s=gh-spain-internships-2027) |
 | **Veolia Environnement SA** | Ingeniero/a Energía o Electricidad Junior | Ontinyent, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000153457490?s=gh-spain-internships-2027) |
 | **Sopra Steria** | Consultor Desarrollo Sostenibilidad Junior | Valencia, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000153446169?s=gh-spain-internships-2027) |
 | **Nike** | Nike Store Associate (Athlete) - La Roca del Valles, BCN - Temporada Navidad - Part Time (20hs) | Barcelona | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nike-nke-R-94718?s=gh-spain-internships-2027) |
@@ -322,7 +322,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 254 current opportunities from 47 companies**
+**🎯 253 current opportunities from 47 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
