@@ -98,7 +98,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **PricewaterhouseCoopers** | Assurance / Junior Ciencias Actuariales (NJ FY27) | Madrid, ES | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-766766WD?s=gh-spain-internships-2027) |
+| **PricewaterhouseCoopers** | Assurance / Junior Ciencias Actuariales (NJ FY27) | Madrid, ES | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-766766WD?s=gh-spain-internships-2027) |
 | **Agilent Technologies** | Analytics Business Operations Intern | Spain Barcelona, ES +1 more | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-agilent-agilent-student-careers-4040010?s=gh-spain-internships-2027) |
 | **PricewaterhouseCoopers** | Consultoría   Prácticas Strategy& Growth Revenue & Customer Analytics (RGM)   Enero 2027 | Madrid, ES | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-741464WD?s=gh-spain-internships-2027) |
 | **Air Liquide** | Data Analyst Internship (M/F) | Spain | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-airliquidehr-airliquideexternalcareer-R10101926?s=gh-spain-internships-2027) |
@@ -130,8 +130,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **TD Synnex** | Sales Operations Trainee | Barcelona | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R56343?s=gh-spain-internships-2027) |
-| **Philips** | Internship: Customer Care Support Intern | Madrid, ES | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-593156?s=gh-spain-internships-2027) |
+| **TD Synnex** | Sales Operations Trainee | Barcelona | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R56343?s=gh-spain-internships-2027) |
+| **Philips** | Internship: Customer Care Support Intern | Madrid, ES | 41m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-593156?s=gh-spain-internships-2027) |
 | **Veolia Environnement SA** | Técnico/a Junior de Asistencia Técnica en Fontanería | Madrid, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000153667549?s=gh-spain-internships-2027) |
 | **TD Synnex** | Software Operations Trainee | Barcelona | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R56853?s=gh-spain-internships-2027) |
 | **ABB** | Internship: design engineering department support (Mechanical Engineering) | Trapagaran | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00042599?s=gh-spain-internships-2027) |
@@ -164,10 +164,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Carrier Global** | Becario Calidad Proceso | Narciso Monturiol Poligono... | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30198440?s=gh-spain-internships-2027) |
-| **Carrier Global** | Becario Ingeniería Fabricación | Narciso Monturiol Poligono... | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30201212?s=gh-spain-internships-2027) |
-| **Nike** | Nike Store Associate (Athlete) - ZARAGOZA -  Temporada Navidad - Part Time (16hs) | Zaragoza | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nike-nke-R-95063?s=gh-spain-internships-2027) |
-| **PricewaterhouseCoopers** | Assurance   Trainee FY27 Málaga | Málaga, ES | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-739040WD?s=gh-spain-internships-2027) |
+| **PricewaterhouseCoopers** | Assurance   Trainee FY27 Málaga | Málaga, ES | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-739040WD?s=gh-spain-internships-2027) |
+| **Carrier Global** | Becario Calidad Proceso | Narciso Monturiol Poligono... | 52m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30198440?s=gh-spain-internships-2027) |
+| **Carrier Global** | Becario Ingeniería Fabricación | Narciso Monturiol Poligono... | 52m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30201212?s=gh-spain-internships-2027) |
+| **Nike** | Nike Store Associate (Athlete) - ZARAGOZA -  Temporada Navidad - Part Time (16hs) | Zaragoza | 52m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nike-nke-R-95063?s=gh-spain-internships-2027) |
 | **PricewaterhouseCoopers** | Programa de becas Analista de Instrumentos Financieros (GRC-FIA-FY27) | Madrid, ES | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-748922WD?s=gh-spain-internships-2027) |
 | **Nike** | Nike Store Associate (Athlete) - PARC VALLES, BCN - Contrato Duración Determinada - 15h/semana | Barcelona | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nike-nke-R-94965?s=gh-spain-internships-2027) |
 | **Nike** | Nike Retail Store Associate (Athlete) - Contrato 16 H Navidad - Nike Store Madrid Torrejon | Madrid | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nike-nke-R-95038?s=gh-spain-internships-2027) |
@@ -177,8 +177,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Johnson & Johnson** | Government Affairs & Policy Internship | Madrid | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-102114?s=gh-spain-internships-2027) |
 | **PricewaterhouseCoopers** | Programa de becas Fondos Europeos Octubre   Sevilla ASS FY27 | Sevilla, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-766508WD?s=gh-spain-internships-2027) |
 | **Santander** | Cost & Budget Analysis & Control Analyst I | Boadilla del Monte, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-santander-santandercareers-Req1614991?s=gh-spain-internships-2027) |
-| **Hilton** | Groups, Meetings & Events Intern (February 2027) | Barcelona | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hilton-226271?s=gh-spain-internships-2027) |
 | **Fortinet** | Field Marketing Intern (Marketing Specialist) | Madrid | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-fortinet-24551?s=gh-spain-internships-2027) |
+| **Hilton** | Groups, Meetings & Events Intern (February 2027) | Barcelona | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hilton-226271?s=gh-spain-internships-2027) |
 | **Carrier Global** | Becario mecánico frigorista | Costa Rica | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30219614?s=gh-spain-internships-2027) |
 | **Veolia Environnement SA** | Ingeniero/a Energía o Electricidad Junior | Ontinyent, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000153457490?s=gh-spain-internships-2027) |
 | **Sopra Steria** | Consultor Desarrollo Sostenibilidad Junior | Valencia, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000153446169?s=gh-spain-internships-2027) |
@@ -208,8 +208,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Hilton** | Front Office Intern | Madrid | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hilton-224822?s=gh-spain-internships-2027) |
 | **Sopra Steria** | Beca Doble Grado ADE + Informatica | València, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000151647139?s=gh-spain-internships-2027) |
 | **Sopra Steria** | Operador/a IT junior con B2 de inglés | Madrid, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000151638479?s=gh-spain-internships-2027) |
-| **PTC** | Sales Compliance Intern - German Speaker | Barcelona | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ptc-ptc-JR112469?s=gh-spain-internships-2027) |
 | **Agilent Technologies** | Internal Communications and Digital Marketing Intern | Spain-Remote Location-Barcelona | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-agilent-agilent-student-careers-4039891?s=gh-spain-internships-2027) |
+| **PTC** | Sales Compliance Intern - German Speaker | Barcelona | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ptc-ptc-JR112469?s=gh-spain-internships-2027) |
 | **Veolia Environnement SA** | Becario/a de Ingeniería - Eficiencia Energética | Madrid, ES | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000151415129?s=gh-spain-internships-2027) |
 | **TD Synnex** | Prácticas Máster en Prevención de Riesgos Laborales – QEHS | Guadalajara | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R56547?s=gh-spain-internships-2027) |
 | **Scopely** | Associate Compensation Specialist, Global Compensation Programs | ES - Barcelona | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-scopely-5427322008?s=gh-spain-internships-2027) |
