@@ -163,11 +163,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Johnson & Johnson** | Business Intelligence trainee | Madrid | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-100730?s=gh-spain-internships-2027) |
-| **Johnson & Johnson** | EMEA Health Economics & Market Access Surgery Intern | Madrid | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-102705?s=gh-spain-internships-2027) |
-| **Nike** | Nike Store Associate (Athlete) - PARC VALLES, BCN - Temporada Navidad - Part Time (15hs) | Barcelona | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nike-nke-R-95516?s=gh-spain-internships-2027) |
-| **Nike** | Nike Retail Store Associate (Athlete) - Navidad - Nike Store La Coruna | Culleredo | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nike-nke-R-95498?s=gh-spain-internships-2027) |
-| **PricewaterhouseCoopers** | Auditoría IT Junior Valladolid   Assurance  FY27 | Valladolid, ES | 46m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-766348WD?s=gh-spain-internships-2027) |
+| **Johnson & Johnson** | Business Intelligence trainee | Madrid | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-100730?s=gh-spain-internships-2027) |
+| **Johnson & Johnson** | EMEA Health Economics & Market Access Surgery Intern | Madrid | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-102705?s=gh-spain-internships-2027) |
+| **Nike** | Nike Store Associate (Athlete) - PARC VALLES, BCN - Temporada Navidad - Part Time (15hs) | Barcelona | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nike-nke-R-95516?s=gh-spain-internships-2027) |
+| **Nike** | Nike Retail Store Associate (Athlete) - Navidad - Nike Store La Coruna | Culleredo | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nike-nke-R-95498?s=gh-spain-internships-2027) |
+| **PricewaterhouseCoopers** | Auditoría IT Junior Valladolid   Assurance  FY27 | Valladolid, ES | 55m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-766348WD?s=gh-spain-internships-2027) |
 | **Carrier Global** | Ingeniero/a Calidad Junior | n, CO | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30218199?s=gh-spain-internships-2027) |
 | **Thales** | INTELLIGENCE TRAINEE MADRID | Madrid Emilio Vargas, ES | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thales-careers-R0338014?s=gh-spain-internships-2027) |
 | **Veolia Environnement SA** | Comercial junior gestión energética Bizkaia | Zamudio, ES | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000155188984?s=gh-spain-internships-2027) |
