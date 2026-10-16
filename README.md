@@ -119,8 +119,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **AstraZeneca** | AI & Data Science Internship Program – AstraZeneca Barcelona | Spain - Barcelona, ES | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-261531?s=gh-spain-internships-2027) |
-| **GitLab** | Staff Solutions Architect, AI Subject Matter Expert | France +1 more | 5h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-gitlab-8860196002?s=gh-spain-internships-2027) |
+| **AstraZeneca** | AI & Data Science Internship Program – AstraZeneca Barcelona | Spain - Barcelona, ES | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-261531?s=gh-spain-internships-2027) |
+| **GitLab** | Staff Solutions Architect, AI Subject Matter Expert | France +1 more | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-gitlab-8860196002?s=gh-spain-internships-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -141,8 +141,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Eurofins** | Técnico junior de laboratorio - Desarrollo Analítico | Esplugues de Llobregat, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000155421019?s=gh-spain-internships-2027) |
 | **Bosch Group** | IT Operations Engineer (Junior) - Enterprise Collaboration Platforms | Huarte, ES | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000155290644?s=gh-spain-internships-2027) |
 | **Veolia Environnement SA** | Técnico/a Junior en Redes de Saneamiento | San Fernando, ES | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000155204039?s=gh-spain-internships-2027) |
-| **Philips** | Internship: Customer Care Support Intern | Madrid, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-593156?s=gh-spain-internships-2027) |
 | **TD Synnex** | Sales Operations Trainee | Barcelona | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R56343?s=gh-spain-internships-2027) |
+| **Philips** | Internship: Customer Care Support Intern | Madrid, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-593156?s=gh-spain-internships-2027) |
 | **Veolia Environnement SA** | Técnico/a Junior de Asistencia Técnica en Fontanería | Madrid, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000153667549?s=gh-spain-internships-2027) |
 | **ABB** | Internship: design engineering department support (Mechanical Engineering) | Trapagaran | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00042599?s=gh-spain-internships-2027) |
 | **Bureau Veritas** | zaragoza Beca Soporte administrativoplanificación Zara | Spain | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/successfactors-bureauveritas-1432952333?s=gh-spain-internships-2027) |
@@ -168,8 +168,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **HP Inc** | Corporate Affairs Intern | Sant Cugat del Valles | 8m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-3169403?s=gh-spain-internships-2027) |
-| **Merck & Co.** | Beca en Marketing de Atención Primaria | ESP - Madrid - Madrid, ES | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R422579?s=gh-spain-internships-2027) |
+| **HP Inc** | Corporate Affairs Intern | Sant Cugat del Valles | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-3169403?s=gh-spain-internships-2027) |
+| **Merck & Co.** | Beca en Marketing de Atención Primaria | ESP - Madrid - Madrid, ES | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R422579?s=gh-spain-internships-2027) |
 | **Nike** | Nike Store Associate (Athlete) - MURCIA - Temporada Navidad - Part Time (20hs) | Murcia | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nike-nke-R-95722?s=gh-spain-internships-2027) |
 | **Veolia Environnement SA** | Ingeniera/o Junior de I+D+i Bizkaia | Zamudio, ES | 15h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000155925870?s=gh-spain-internships-2027) |
 | **Veeva Systems** | Associate Consultant - Entry-Level Clinical Data Technology Consulting | Spain - Barcelona | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-veeva-4d69a90b-fff2-419c-9ae0-938226dca26c?s=gh-spain-internships-2027) |
@@ -203,9 +203,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Sopra Steria** | Consultor Desarrollo Sostenibilidad Junior | Valencia, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000153446169?s=gh-spain-internships-2027) |
 | **Bosch Group** | Prácticas Ingeniería Fabricación Filtros - Curso 2026-27_Bosch Aranjuez | Aranjuez, ES | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000153120469?s=gh-spain-internships-2027) |
 | **Hilton** | Marketing intern | Madrid | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hilton-225806?s=gh-spain-internships-2027) |
+| **TD Synnex** | Customer Service Intern | Barcelona | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R56019?s=gh-spain-internships-2027) |
 | **Bureau Veritas** | Madrid ¿Estudias Arquitectura o Ingeniería ¡Haz tus prácticas con nosotr@s! Madr | Spain | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/successfactors-bureauveritas-1265733501?s=gh-spain-internships-2027) |
 | **Bureau Veritas** | Madrid ¿Quieres hacer tus prácticas en Bureau Veritas ¡Únete a BVAcademy! Madr | Spain | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/successfactors-bureauveritas-890613701?s=gh-spain-internships-2027) |
-| **TD Synnex** | Customer Service Intern | Barcelona | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R56019?s=gh-spain-internships-2027) |
 | **Bosch Group** | Estudiante en prácticas – Departamento de Gestión de Calidad (QMM-P) | Madrid, ES | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000152900001?s=gh-spain-internships-2027) |
 | **Air Liquide** | Business Analyst intern | Spain | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-airliquidehr-airliquideexternalcareer-R10102117?s=gh-spain-internships-2027) |
 | **Bureau Veritas** | Córdoba Beca Administrativoa Córd | Spain | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/successfactors-bureauveritas-1431832933?s=gh-spain-internships-2027) |
