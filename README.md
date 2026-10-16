@@ -154,11 +154,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Nike** | Nike Store Associate (Athlete) - MURCIA - Temporada Navidad - Part Time (20hs) | Murcia | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nike-nke-R-95722?s=gh-spain-internships-2027) |
-| **HP Inc** | Corporate Affairs Intern | Sant Cugat del Valles | 20m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-3169403?s=gh-spain-internships-2027) |
+| **Nike** | Nike Store Associate (Athlete) - MURCIA - Temporada Navidad - Part Time (20hs) | Murcia | 29m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nike-nke-R-95722?s=gh-spain-internships-2027) |
+| **HP Inc** | Corporate Affairs Intern | Sant Cugat del Valles | 29m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-3169403?s=gh-spain-internships-2027) |
 | **Veolia Environnement SA** | Ingeniera/o Junior de I+D+i Bizkaia | Zamudio, ES | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000155925870?s=gh-spain-internships-2027) |
 | **NBCUniversal** | Finance Trainee | Madrid, ES | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-NBCUniversal3-744000155772604?s=gh-spain-internships-2027) |
-| **Wiz** | Business Development Representative | Madrid | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-wizinc-4720625006?s=gh-spain-internships-2027) |
+| **Wiz** | Business Development Representative | Madrid | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-wizinc-4720625006?s=gh-spain-internships-2027) |
 | **PricewaterhouseCoopers** | Programa de becas Fondos Europeos   Santander ASS FY27 | Santander, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-768094WD?s=gh-spain-internships-2027) |
 | **PricewaterhouseCoopers** | Programa de becas Fondos Europeos   Mallorca ASS FY27 | Palma de Mallorca, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-768096WD?s=gh-spain-internships-2027) |
 | **PricewaterhouseCoopers** | Programa de becas Fondos Europeos   Valencia ASS FY27 | Valencia, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-768097WD?s=gh-spain-internships-2027) |
