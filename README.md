@@ -118,7 +118,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **AstraZeneca** | AI & Data Science Internship Program – AstraZeneca Barcelona | Spain - Barcelona, ES | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-261531?s=gh-spain-internships-2027) |
+| **AstraZeneca** | AI & Data Science Internship Program – AstraZeneca Barcelona | Spain - Barcelona, ES | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-261531?s=gh-spain-internships-2027) |
 | **GitLab** | Staff Solutions Architect, AI Subject Matter Expert | France +1 more | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-gitlab-8860196002?s=gh-spain-internships-2027) |
 
 <p align="center">Apply for more jobs at</p>
@@ -167,11 +167,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Merck & Co.** | Beca en Marketing de Atención Primaria | ESP - Madrid - Madrid, ES | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R422579?s=gh-spain-internships-2027) |
-| **HP Inc** | Corporate Affairs Intern | Sant Cugat del Valles | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-3169403?s=gh-spain-internships-2027) |
-| **Nike** | Nike Store Associate (Athlete) - MURCIA - Temporada Navidad - Part Time (20hs) | Murcia | 52m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nike-nke-R-95722?s=gh-spain-internships-2027) |
+| **Merck & Co.** | Beca en Marketing de Atención Primaria | ESP - Madrid - Madrid, ES | 16m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R422579?s=gh-spain-internships-2027) |
+| **HP Inc** | Corporate Affairs Intern | Sant Cugat del Valles | 17m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-3169403?s=gh-spain-internships-2027) |
+| **Nike** | Nike Store Associate (Athlete) - MURCIA - Temporada Navidad - Part Time (20hs) | Murcia | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nike-nke-R-95722?s=gh-spain-internships-2027) |
 | **Veolia Environnement SA** | Ingeniera/o Junior de I+D+i Bizkaia | Zamudio, ES | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000155925870?s=gh-spain-internships-2027) |
-| **Veeva Systems** | Associate Consultant - Entry-Level Clinical Data Technology Consulting | Spain - Barcelona | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-veeva-4d69a90b-fff2-419c-9ae0-938226dca26c?s=gh-spain-internships-2027) |
+| **Veeva Systems** | Associate Consultant - Entry-Level Clinical Data Technology Consulting | Spain - Barcelona | 23h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-veeva-4d69a90b-fff2-419c-9ae0-938226dca26c?s=gh-spain-internships-2027) |
 | **PricewaterhouseCoopers** | Programa de becas Fondos Europeos   Santander ASS FY27 | Santander, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-768094WD?s=gh-spain-internships-2027) |
 | **PricewaterhouseCoopers** | Programa de becas Fondos Europeos   Mallorca ASS FY27 | Palma de Mallorca, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-768096WD?s=gh-spain-internships-2027) |
 | **PricewaterhouseCoopers** | Programa de becas Fondos Europeos   Valencia ASS FY27 | Valencia, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-768097WD?s=gh-spain-internships-2027) |
@@ -185,13 +185,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Nike** | Nike Store Associate (Athlete) - PARC VALLES, BCN - Temporada Navidad - Part Time (15hs) | Barcelona | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nike-nke-R-95516?s=gh-spain-internships-2027) |
 | **Nike** | Nike Retail Store Associate (Athlete) - Navidad - Nike Store La Coruna | Culleredo | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nike-nke-R-95498?s=gh-spain-internships-2027) |
 | **Veolia Environnement SA** | Comercial junior gestión energética Bizkaia | Zamudio, ES | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000155188984?s=gh-spain-internships-2027) |
+| **Sony** | Marketing Analyst Intern | Barcelona, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sonyglobal-sonyglobalcareers-JR-119730?s=gh-spain-internships-2027) |
 | **Boeing** | Aerospace Engineering Internship | ESP - Madrid | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-boeing-external-careers-JR2026525215?s=gh-spain-internships-2027) |
 | **Nissan** | Energy Efficiency & Sustainability Engineer, Graduate Trainee | Cantabria, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-alliance-nissanjobs-R00213378?s=gh-spain-internships-2027) |
 | **Carrier Global** | Mecánico Frigorista I | ESP2841: Avenida de la Industria 6 | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30218878?s=gh-spain-internships-2027) |
-| **Sony** | Marketing Analyst Intern | Barcelona, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sonyglobal-sonyglobalcareers-JR-119730?s=gh-spain-internships-2027) |
 | **Johnson & Johnson** | Internship Business Finance | Madrid | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-103997?s=gh-spain-internships-2027) |
-| **Thales** | IS-IT Engineer Intern (Hybrid) | Madrid, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thales-careers-R0341794?s=gh-spain-internships-2027) |
 | **Arrow Electronics** | Field Sales Associate | ES-Alcobendas | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-arrow-ac-R247854?s=gh-spain-internships-2027) |
+| **Thales** | IS-IT Engineer Intern (Hybrid) | Madrid, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thales-careers-R0341794?s=gh-spain-internships-2027) |
 | **Bosch Group** | Prácticas en Laboratorio de Calidad | Madrid, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000154434089?s=gh-spain-internships-2027) |
 | **Veolia Environnement SA** | Project Manager Junior de I+D+i Bizkaia | Zamudio, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000154403239?s=gh-spain-internships-2027) |
 | **Carrier Global** | Becario Ingeniería Fabricación | n, CO | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30201212?s=gh-spain-internships-2027) |
