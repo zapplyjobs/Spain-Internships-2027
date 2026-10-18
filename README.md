@@ -347,6 +347,6 @@ Questions or a different use? Open an issue. We say yes more often than not.
 
 ---
 
-**Last Updated**: October 17, 2026
+**Last Updated**: October 18, 2026
 
 </div>
