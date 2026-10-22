@@ -177,11 +177,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **PricewaterhouseCoopers** | Prácticas Consultoría de Negocio   Sector Público (Inicio Enero 2027) | Barcelona, ES | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-769041WD?s=gh-spain-internships-2027) |
+| **PricewaterhouseCoopers** | Prácticas Consultoría de Negocio   Sector Público (Inicio Enero 2027) | Barcelona, ES | 37m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-769041WD?s=gh-spain-internships-2027) |
 | **HP Inc** | Business Analyst Intern | Sant Cugat del Valles | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4524?s=gh-spain-internships-2027) |
 | **Bureau Veritas** | Llanera BECARIOA SEGURIDAD INDUSTRIAL Electricidad Astu | Spain | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/successfactors-bureauveritas-1450184733?s=gh-spain-internships-2027) |
 | **AST SpaceMobile** | Junior Mechanical Engineer - Jig Design and Tooling | Barcelona | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-astspacemobile-4746458005?s=gh-spain-internships-2027) |
-| **Veolia Environnement SA** | Prácticas - Derecho   Departamento Jurídico | Barcelona, ES | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000157054610?s=gh-spain-internships-2027) |
+| **Veolia Environnement SA** | Prácticas - Derecho   Departamento Jurídico | Barcelona, ES | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000157054610?s=gh-spain-internships-2027) |
 | **Analog Devices** | Layout Designer Intern | Spain | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R267124?s=gh-spain-internships-2027) |
 | **Analog Devices** | Product Applications Intern | Spain | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R267089?s=gh-spain-internships-2027) |
 | **Analog Devices** | Layout Designer Intern | Spain | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R267121?s=gh-spain-internships-2027) |
@@ -229,8 +229,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Air Liquide** | Beca Fisioterapia en TRD | Spain | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-airliquidehr-airliquideexternalcareer-R10101911?s=gh-spain-internships-2027) |
 | **Hilton** | Front Office Intern | Madrid | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hilton-224822?s=gh-spain-internships-2027) |
 | **Sopra Steria** | Beca Doble Grado ADE + Informatica | València, ES | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000151647139?s=gh-spain-internships-2027) |
-| **PTC** | Sales Compliance Intern - German Speaker | Barcelona | 4w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ptc-ptc-JR112469?s=gh-spain-internships-2027) |
 | **Agilent Technologies** | Internal Communications and Digital Marketing Intern | Spain-Remote Location-Barcelona | 4w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-agilent-agilent-student-careers-4039891?s=gh-spain-internships-2027) |
+| **PTC** | Sales Compliance Intern - German Speaker | Barcelona | 4w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ptc-ptc-JR112469?s=gh-spain-internships-2027) |
 | **Cisco** | Sales Legal Intern | Madrid | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2024774?s=gh-spain-internships-2027) |
 | **Biogen** | HR Intern | Madrid | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-biibhr-external-REQ23755?s=gh-spain-internships-2027) |
 | **TD Synnex** | Accounting Intern | Barcelona | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R41712?s=gh-spain-internships-2027) |
