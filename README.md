@@ -121,7 +121,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Philips** | Supply Chain Demand Support Intern | Madrid, ES | 4m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-593489?s=gh-spain-internships-2027) |
+| **Philips** | Supply Chain Demand Support Intern | Madrid, ES | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-593489?s=gh-spain-internships-2027) |
 | **Bureau Veritas** | LEIOA Beca Soporte administrativoplanificación Bizk | Spain | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/successfactors-bureauveritas-1388639633?s=gh-spain-internships-2027) |
 | **Philips** | Internship: Customer Care Support Intern | Madrid, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-593156?s=gh-spain-internships-2027) |
 | **Philips** | Internship: Service Commercial Support Intern | Madrid, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-593680?s=gh-spain-internships-2027) |
@@ -153,9 +153,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|----------|
 | **Bureau Veritas** | Zaragoza Inspectora de Medio Ambiente Junior Zara | Spain | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/successfactors-bureauveritas-1390265233?s=gh-spain-internships-2027) |
 | **Bureau Veritas** | Indiferente Becarioa Departamento de Pesca Sostenible Madr | Spain | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/successfactors-bureauveritas-1288908501?s=gh-spain-internships-2027) |
+| **Johnson & Johnson** | IMPO Finance Intern | Madrid - Lafinca, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-106808?s=gh-spain-internships-2027) |
 | **PricewaterhouseCoopers** | Assurance   Becas Auditoría Tecnológica Madrid  (Inicio noviembre 2026) | Madrid, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-737799WD?s=gh-spain-internships-2027) |
 | **PricewaterhouseCoopers** | Beca Recursos Humanos Formacion | Madrid, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-761790WD?s=gh-spain-internships-2027) |
-| **Johnson & Johnson** | IMPO Finance Intern | Madrid - Lafinca, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-106808?s=gh-spain-internships-2027) |
 | **HP Inc** | People Strategy & Engagement Intern | Sant Cugat del Valles | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI3597?s=gh-spain-internships-2027) |
 | **Bosch Group** | Estudiante en prácticas – departamento de Industria 4.0 y digitalización | Madrid, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000157427674?s=gh-spain-internships-2027) |
 | **Hilton** | Food and Drinks Intern | Madrid | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hilton-228632?s=gh-spain-internships-2027) |
