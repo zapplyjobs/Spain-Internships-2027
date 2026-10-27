@@ -84,8 +84,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Agilent Technologies** | Analytics Business Operations Intern | Spain-Remote Location-Barcelona | 45m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-agilent-agilent-student-careers-4040010?s=gh-spain-internships-2027) |
-| **Visa** | Consulting & Analytics Summer Intern | ES - Madrid | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-visa-visa-REF089917W?s=gh-spain-internships-2027) |
+| **Agilent Technologies** | Analytics Business Operations Intern | Spain-Remote Location-Barcelona | 53m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-agilent-agilent-student-careers-4040010?s=gh-spain-internships-2027) |
+| **Visa** | Consulting & Analytics Summer Intern | ES - Madrid | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-visa-visa-REF089917W?s=gh-spain-internships-2027) |
 | **HP Inc** | Project Management & Business Analytics Intern | Sant Cugat del Valles | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4153?s=gh-spain-internships-2027) |
 | **HP Inc** | Data Analytics & Automation Intern | Sant Cugat del Valles | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4151?s=gh-spain-internships-2027) |
 | **Air Liquide** | INTERNSHIP OPERATIONS - DATA ANALYTICS | Spain | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-airliquidehr-airliquideexternalcareer-R10103173?s=gh-spain-internships-2027) |
@@ -107,7 +107,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **HP Inc** | AI & Automation Intern | Sant Cugat del Valles | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI3950?s=gh-spain-internships-2027) |
+| **HP Inc** | AI & Automation Intern | Sant Cugat del Valles | 23m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI3950?s=gh-spain-internships-2027) |
 | **NVIDIA** | Solution Architect, Local Government AI | Spain, ES +1 more | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2021891?s=gh-spain-internships-2027) |
 | **HP Inc** | AI, Data & Advanced Manufacturing Intern | Sant Cugat del Valles | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4791?s=gh-spain-internships-2027) |
 | **AstraZeneca** | AI & Data Science Internship Program – AstraZeneca Barcelona | Spain - Barcelona, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-261531?s=gh-spain-internships-2027) |
@@ -154,7 +154,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Sopra Steria** | Business Analyst junior con Francés | Sevilla, ES | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000158036279?s=gh-spain-internships-2027) |
+| **Sopra Steria** | Business Analyst junior con Francés | Sevilla, ES | 7h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000158036279?s=gh-spain-internships-2027) |
 | **Carrier Global** | Becario Calidad Proveedores | n, CO | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30198443?s=gh-spain-internships-2027) |
 | **TD Synnex** | Prácticas en Backoffice de Ventas (Microsoft) | Barcelona | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R57280?s=gh-spain-internships-2027) |
 | **Thales** | Real Estate Intern (Hybrid) | Madrid, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thales-careers-R0336006?s=gh-spain-internships-2027) |
