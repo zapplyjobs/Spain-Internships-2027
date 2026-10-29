@@ -84,8 +84,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Visa** | Consulting & Analytics Summer Intern | ES - Madrid | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-visa-visa-REF089917W?s=gh-spain-internships-2027) |
 | **Agilent Technologies** | Analytics Business Operations Intern | Spain-Remote Location-Barcelona | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-agilent-agilent-student-careers-4040010?s=gh-spain-internships-2027) |
+| **Visa** | Consulting & Analytics Summer Intern | ES - Madrid | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-visa-visa-REF089917W?s=gh-spain-internships-2027) |
 | **HP Inc** | Project Management & Business Analytics Intern | Sant Cugat del Valles | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4153?s=gh-spain-internships-2027) |
 | **HP Inc** | Data Analytics & Automation Intern | Sant Cugat del Valles | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4151?s=gh-spain-internships-2027) |
 | **Air Liquide** | INTERNSHIP OPERATIONS - DATA ANALYTICS | Spain | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-airliquidehr-airliquideexternalcareer-R10103173?s=gh-spain-internships-2027) |
@@ -126,7 +126,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | **HP Inc** | Data Analysis Intern - Supply Chain | Sant Cugat del Valles | 2h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4159?s=gh-spain-internships-2027) |
-| **Celonis** | Strategy & Operations Graduated Internship (12 months) | Madrid | 11h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-celonis-8046331003?s=gh-spain-internships-2027) |
+| **Celonis** | Strategy & Operations Graduated Internship (12 months) | Madrid | 12h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-celonis-8046331003?s=gh-spain-internships-2027) |
 | **Honeywell** | Intern Bachelor's - Field Service Engineer (m/f/d) | Madrid | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-honeywell-159540?s=gh-spain-internships-2027) |
 | **Veolia Environnement SA** | Técnico/a Controller Financiero/a - Junior | Madrid, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000157799369?s=gh-spain-internships-2027) |
 | **Philips** | Supply Chain Demand Support Intern | Madrid, ES | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-593489?s=gh-spain-internships-2027) |
@@ -183,9 +183,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Hilton** | Food and Drinks Intern | Madrid | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hilton-228632?s=gh-spain-internships-2027) |
 | **AST SpaceMobile** | Junior Mechanical Engineer - Jig Design and Tooling | Barcelona | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-astspacemobile-4746458005?s=gh-spain-internships-2027) |
 | **Veolia Environnement SA** | Prácticas - Derecho   Departamento Jurídico | Barcelona, ES | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000157054610?s=gh-spain-internships-2027) |
-| **KION Group** | Workshop Service Engineer Trainee | Coslada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0097254?s=gh-spain-internships-2027) |
 | **Analog Devices** | Layout Designer Intern | Spain | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R267124?s=gh-spain-internships-2027) |
 | **Analog Devices** | Product Applications Intern | Spain | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R267089?s=gh-spain-internships-2027) |
+| **KION Group** | Workshop Service Engineer Trainee | Coslada | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0097254?s=gh-spain-internships-2027) |
 | **Nike** | Nike Retail Store Associate (Athlete)-Contrato 24H Navidad-Nike Store San Sebastian de los Reyes | NFS MADRID SSRR, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nike-nke-R-96072?s=gh-spain-internships-2027) |
 | **Sopra Steria** | PMO Junior en Albacete | Madrid, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000156508639?s=gh-spain-internships-2027) |
 | **Veolia Environnement SA** | Ingeniera/o Junior de I+D+i Bizkaia | Zamudio, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000155925870?s=gh-spain-internships-2027) |
