@@ -127,13 +127,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **PricewaterhouseCoopers** | Beca– Real Estate Técnico | Madrid, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-771110WD?s=gh-spain-internships-2027) |
 | **Johnson & Johnson** | Business Support Internship | Madrid | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-106201?s=gh-spain-internships-2027) |
+| **PricewaterhouseCoopers** | Beca– Real Estate Técnico | Madrid, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-771110WD?s=gh-spain-internships-2027) |
 | **Honeywell** | Aprendiz - Junior Field Service Technician | Madrid | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-honeywell-160922?s=gh-spain-internships-2027) |
 | **Celonis** | Strategy & Operations Graduated Internship (12 months) | Madrid | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-celonis-8046331003?s=gh-spain-internships-2027) |
 | **HP Inc** | Data Analysis Intern - Supply Chain | Sant Cugat del Valles | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4159?s=gh-spain-internships-2027) |
 | **Honeywell** | Intern Bachelor's - Field Service Engineer (m/f/d) | Madrid | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-honeywell-159540?s=gh-spain-internships-2027) |
-| **Veolia Environnement SA** | Técnico/a Controller Financiero/a - Junior | Madrid, ES | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000157799369?s=gh-spain-internships-2027) |
+| **Veolia Environnement SA** | Técnico/a Controller Financiero/a - Junior | Madrid, ES | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000157799369?s=gh-spain-internships-2027) |
 | **Philips** | Supply Chain Demand Support Intern | Madrid, ES | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-593489?s=gh-spain-internships-2027) |
 | **Philips** | Internship: Customer Care Support Intern | Madrid, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-593156?s=gh-spain-internships-2027) |
 | **Veolia Environnement SA** | Técnico/a de apoyo junior (Becario/a)/ Dirección Financiera Corporativa. | Barcelona, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000157425468?s=gh-spain-internships-2027) |
@@ -159,7 +159,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Nike** | Nike Retail Store Associate (Athlete) - Contrato 16 H Navidad - Nike Store Madrid Getafe | Madrid | 21m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nike-nke-R-95396?s=gh-spain-internships-2027) |
+| **Nike** | Nike Retail Store Associate (Athlete) - Contrato 16 H Navidad - Nike Store Madrid Getafe | Madrid | 33m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nike-nke-R-95396?s=gh-spain-internships-2027) |
 | **Veolia Environnement SA** | Ingeniero/a Junior Biomédico (M/H) - Barcelona | Barcelona, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000158500460?s=gh-spain-internships-2027) |
 | **PricewaterhouseCoopers** | Abogado junior servicios internos | Madrid, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-765837WD?s=gh-spain-internships-2027) |
 | **Air Liquide** | Web Content Editor - Internship | Spain | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-airliquidehr-airliquideexternalcareer-R10103953?s=gh-spain-internships-2027) |
