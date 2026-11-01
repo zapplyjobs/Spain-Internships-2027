@@ -109,7 +109,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **NVIDIA** | Solution Architect, Local Government AI | Spain, ES +1 more | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2021891?s=gh-spain-internships-2027) |
+| **NVIDIA** | Solution Architect, Local Government AI | Spain, ES +1 more | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2021891?s=gh-spain-internships-2027) |
 | **HP Inc** | AI & Data Engineering Intern | Sant Cugat del Valles | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4517?s=gh-spain-internships-2027) |
 | **HP Inc** | AI Engineering Intern | Sant Cugat del Valles | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4353?s=gh-spain-internships-2027) |
 | **HP Inc** | AI & Computer Vision Engineering Intern | Sant Cugat del Valles | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4780?s=gh-spain-internships-2027) |
@@ -135,11 +135,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Celonis** | Strategy & Operations Graduated Internship (12 months) | Madrid | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-celonis-8046331003?s=gh-spain-internships-2027) |
 | **Honeywell** | Intern Bachelor's - Field Service Engineer (m/f/d) | Madrid | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-honeywell-159540?s=gh-spain-internships-2027) |
 | **Veolia Environnement SA** | Técnico/a Controller Financiero/a - Junior | Madrid, ES | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000157799369?s=gh-spain-internships-2027) |
-| **Philips** | Supply Chain Demand Support Intern | Madrid, ES | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-593489?s=gh-spain-internships-2027) |
 | **Bureau Veritas** | LEIOA Beca Soporte administrativoplanificación Bizk | Spain | Date unknown | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/successfactors-bureauveritas-1388639633?s=gh-spain-internships-2027) |
-| **Philips** | Internship: Customer Care Support Intern | Madrid, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-593156?s=gh-spain-internships-2027) |
+| **Philips** | Supply Chain Demand Support Intern | Madrid, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-593489?s=gh-spain-internships-2027) |
 | **Veolia Environnement SA** | Técnico/a de apoyo junior (Becario/a)/ Dirección Financiera Corporativa. | Barcelona, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000157425468?s=gh-spain-internships-2027) |
 | **Philips** | Internship: Service Commercial Support Intern | Madrid, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-593680?s=gh-spain-internships-2027) |
+| **Philips** | Internship: Customer Care Support Intern | Madrid, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-593156?s=gh-spain-internships-2027) |
 | **Veolia Environnement SA** | Técnico/a Junior de Estudios Planificación y Producción de Obras | Barcelona, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000157242608?s=gh-spain-internships-2027) |
 | **HP Inc** | Employee Experience Program Support Intern | Sant Cugat del Valles | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI3951?s=gh-spain-internships-2027) |
 | **Honeywell** | Intern/Becario - Technical Support Specialist (m/f/d) | Madrid | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-honeywell-159016?s=gh-spain-internships-2027) |
