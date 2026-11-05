@@ -96,7 +96,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Air Liquide** | INTERNSHIP OPERATIONS - DATA ANALYTICS | Spain | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-airliquidehr-airliquideexternalcareer-R10104687?s=gh-spain-internships-2027) |
+| **Air Liquide** | INTERNSHIP OPERATIONS - DATA ANALYTICS | Spain | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-airliquidehr-airliquideexternalcareer-R10104687?s=gh-spain-internships-2027) |
 | **HP Inc** | Business Intelligence & Data Analytics Intern | Sant Cugat del Valles | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4522?s=gh-spain-internships-2027) |
 | **HP Inc** | Data Analyst Intern | Sant Cugat del Valles | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4613?s=gh-spain-internships-2027) |
 | **HP Inc** | Data Scientist Intern - Supplier Management Analytics & AI | Sant Cugat del Valles | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4457?s=gh-spain-internships-2027) |
@@ -173,10 +173,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **PricewaterhouseCoopers** | Beca Recursos Humanos Formacion | Madrid, ES | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-761790WD?s=gh-spain-internships-2027) |
-| **PricewaterhouseCoopers** | TLS   Beca TMAS Payroll Barcelona | Barcelona, ES | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-772314WD?s=gh-spain-internships-2027) |
-| **Nike** | Nike Retail Store Associate (Athlete) - Contrato de duracion determinada - Nike Store La Coruna | Culleredo | 7m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nike-nke-R-95498?s=gh-spain-internships-2027) |
-| **Sopra Steria** | Consultor/a SAP junior - presencial Albacete | Albacete, ES | 43m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000159853109?s=gh-spain-internships-2027) |
+| **PricewaterhouseCoopers** | Beca Recursos Humanos Formacion | Madrid, ES | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-761790WD?s=gh-spain-internships-2027) |
+| **PricewaterhouseCoopers** | TLS   Beca TMAS Payroll Barcelona | Barcelona, ES | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-772314WD?s=gh-spain-internships-2027) |
+| **Nike** | Nike Retail Store Associate (Athlete) - Contrato de duracion determinada - Nike Store La Coruna | Culleredo | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nike-nke-R-95498?s=gh-spain-internships-2027) |
+| **Sopra Steria** | Consultor/a SAP junior - presencial Albacete | Albacete, ES | 51m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000159853109?s=gh-spain-internships-2027) |
 | **Celonis** | Executive Assistant | Madrid | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-celonis-8005089003?s=gh-spain-internships-2027) |
 | **Sopra Steria** | Data Junior con francés | Madrid, ES | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-SopraSteria1-744000159670839?s=gh-spain-internships-2027) |
 | **PricewaterhouseCoopers** | ASS   Beca GRC Seguros Barcelona | Barcelona, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-770325WD?s=gh-spain-internships-2027) |
@@ -224,7 +224,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Boston Scientific** | Finance Data Science Intern | Madrid | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813769021?s=gh-spain-internships-2027) |
 | **Sony** | Marketing Analyst Intern | Barcelona, ES | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sonyglobal-sonyglobalcareers-JR-119730?s=gh-spain-internships-2027) |
 | **Thales** | IS-IT Engineer Intern (Hybrid) | Madrid, ES | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thales-careers-R0341794?s=gh-spain-internships-2027) |
-| **Bosch Group** | Prácticas en Laboratorio de Calidad | Madrid, ES | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000154434089?s=gh-spain-internships-2027) |
+| **Bosch Group** | Prácticas en Laboratorio de Calidad | Madrid, ES | 4w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000154434089?s=gh-spain-internships-2027) |
 | **GitLab** | Business Development Representative, German Speaking | Not specified | 4w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-gitlab-8872457002?s=gh-spain-internships-2027) |
 | **Monolithic Power Systems** | Digital Verification Intern | Barcelona | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-monolithicpower-mps-careers-R-1763?s=gh-spain-internships-2027) |
 | **Biogen** | HR Intern | Madrid | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-biibhr-external-REQ23755?s=gh-spain-internships-2027) |
