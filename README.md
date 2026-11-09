@@ -146,7 +146,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|----------|
 | **ABB** | Internship: Commercial Support for MOHP Drives | Madrid | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00052921?s=gh-spain-internships-2027) |
 | **Honeywell** | Intern/Becario - Sales Operations (m/f/d) | Oiartzun | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-honeywell-159030?s=gh-spain-internships-2027) |
-| **Veolia Environnement SA** | Técnico/a de Prevención de Riesgos Laborales Junior - Lleida | Lleida, ES | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000159791351?s=gh-spain-internships-2027) |
+| **Veolia Environnement SA** | Técnico/a de Prevención de Riesgos Laborales Junior - Lleida | Lleida, ES | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000159791351?s=gh-spain-internships-2027) |
 | **TD Synnex** | Trainee Bid Support | Barcelona | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R56372?s=gh-spain-internships-2027) |
 | **Hilton** | Hotel Management (operations) - Internship | Barcelona | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hilton-229774?s=gh-spain-internships-2027) |
 | **PricewaterhouseCoopers** | Beca– Real Estate Técnico | Madrid, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-771110WD?s=gh-spain-internships-2027) |
@@ -165,7 +165,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **ABB** | Internship: Sales Department Support - Industrial Electrification Segment | Paterna | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00050629?s=gh-spain-internships-2027) |
 | **ABB** | Internship: Low Voltage Electrification Sales Support - Bizkaia | Trapagaran | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00050599?s=gh-spain-internships-2027) |
 | **TD Synnex** | Prácticas en Business Operations y Soporte Comercial | Barcelona | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R53953?s=gh-spain-internships-2027) |
-| **Veolia Environnement SA** | Prácticas – Ingeniería   Dirección de Operaciones | Terrassa, ES | 2026-07-16 | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000138036859?s=gh-spain-internships-2027) |
+| **Veolia Environnement SA** | Prácticas – Ingenier��a   Dirección de Operaciones | Terrassa, ES | 2026-07-16 | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000138036859?s=gh-spain-internships-2027) |
 
 <p align="center">Apply for more jobs at</p>
 <p align="center"><a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
@@ -177,7 +177,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Iberdrola** | 🎓🔋⚡Programa Prácticas Alumni 2027 | Spain Madrid, ES +11 more | 28m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-iberdrola-iberdrola-R-35158?s=gh-spain-internships-2027) |
+| **Iberdrola** | 🎓🔋⚡Programa Prácticas Alumni 2027 | Spain Madrid, ES +11 more | 35m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-iberdrola-iberdrola-R-35158?s=gh-spain-internships-2027) |
 | **ABB** | Internship: Trainee Motion Service (Drives, machines and generators) | Sant Quirze del Valles | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00052923?s=gh-spain-internships-2027) |
 | **Eurofins** | Website and Content Migration Internship | Madrid, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-Eurofins-744000160227012?s=gh-spain-internships-2027) |
 | **Bosch Group** | Estudiante en prácticas - Departamento de Marketing HC (Bosch Home Comfort) | Madrid, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000160188230?s=gh-spain-internships-2027) |
