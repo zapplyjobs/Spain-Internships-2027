@@ -72,8 +72,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Nissan** | Generative AI & Software Engineering Intern | Barcelona ZF, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-alliance-nissanjobs-R00215499?s=gh-spain-internships-2027) |
 | **Monolithic Power Systems** | Software Engineer Intern | Barcelona | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-monolithicpower-mps-careers-R-1786?s=gh-spain-internships-2027) |
 | **HP Inc** | Software Engineering Intern | Sant Cugat del Valles | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4787?s=gh-spain-internships-2027) |
-| **Marvell** | Software Engineer Intern | Madrid, ES | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-marvell-marvellcareers-2502346?s=gh-spain-internships-2027) |
 | **Marvell** | Software Engineer Intern | Madrid, ES | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-marvell-marvellcareers-2604258?s=gh-spain-internships-2027) |
+| **Marvell** | Software Engineer Intern | Madrid, ES | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-marvell-marvellcareers-2502346?s=gh-spain-internships-2027) |
 | **Datadog** | Software Engineering Intern | Madrid | 2026-09-08 | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-datadog-8114161?s=gh-spain-internships-2027) |
 
 <p align="center">Apply for more jobs at</p>
@@ -123,8 +123,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| **HPE** | AI and Data Intern | Las Rozas | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-acjobsite-1218829?s=gh-spain-internships-2027) |
 | **HPE (University)** | AI and Data Intern | Las Rozas | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1218829?s=gh-spain-internships-2027) |
-| **HPE** | AI and Data Intern | Las Rozas | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-acjobsite-1218829?s=gh-spain-internships-2027) |
 | **HP Inc** | AI & Automation Intern | Sant Cugat del Valles | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4612?s=gh-spain-internships-2027) |
 | **NVIDIA** | Solution Architect, Local Government AI | Spain, ES +1 more | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2021891?s=gh-spain-internships-2027) |
 | **HP Inc** | AI & Data Engineering Intern | Sant Cugat del Valles | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4517?s=gh-spain-internships-2027) |
@@ -177,7 +177,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Coca-Cola** | Legal Trainee – Spain (Spanish & French Speaking) | Spain - Madrid, ES | 21m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-coke-coca-cola-careers-R-148504?s=gh-spain-internships-2027) |
+| **Coca-Cola** | Legal Trainee – Spain (Spanish & French Speaking) | Spain - Madrid, ES | 29m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-coke-coca-cola-careers-R-148504?s=gh-spain-internships-2027) |
 | **Iberdrola** | 🎓🔋⚡Programa Prácticas Alumni 2027 | Spain Madrid, ES +11 more | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-iberdrola-iberdrola-R-35158?s=gh-spain-internships-2027) |
 | **Nike** | Nike Retail Store Associate (Athlete) - Contrato 16 H Navidad - Nike Store Madrid Getafe | Madrid | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nike-nke-R-95396?s=gh-spain-internships-2027) |
 | **Hitachi** | Continuous Improvement Intern | Cordoba | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0136605?s=gh-spain-internships-2027) |
@@ -227,12 +227,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Stryker** | HR Transformation Intern | Alcobendas | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-stryker-strykercareers-R575042?s=gh-spain-internships-2027) |
 | **GitLab** | Business Development Representative, Spanish Speaking | Spain | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-gitlab-8882367002?s=gh-spain-internships-2027) |
 | **Boston Scientific** | Finance Data Science Intern | Madrid | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/eightfold-bostonscientific-563602813769021?s=gh-spain-internships-2027) |
+| **Monolithic Power Systems** | Digital Verification Intern | Barcelona | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-monolithicpower-mps-careers-R-1763?s=gh-spain-internships-2027) |
 | **Biogen** | HR Intern | Madrid | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-biibhr-external-REQ23755?s=gh-spain-internships-2027) |
 | **Agilent Technologies** | Internal Communications and Digital Marketing Intern | Spain-Remote Location-Barcelona | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-agilent-agilent-student-careers-4039891?s=gh-spain-internships-2027) |
 | **Sony** | Marketing Analyst Intern | Barcelona, ES | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-sonyglobal-sonyglobalcareers-JR-119730?s=gh-spain-internships-2027) |
 | **TD Synnex** | Customer Service Intern | Barcelona | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R56019?s=gh-spain-internships-2027) |
 | **Cisco** | Sales Legal Intern | Madrid | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2024774?s=gh-spain-internships-2027) |
-| **Monolithic Power Systems** | Digital Verification Intern | Barcelona | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-monolithicpower-mps-careers-R-1763?s=gh-spain-internships-2027) |
 | **Thales** | IS-IT Engineer Intern (Hybrid) | Madrid, ES | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thales-careers-R0341794?s=gh-spain-internships-2027) |
 | **GitLab** | Business Development Representative, German Speaking | Not specified | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-gitlab-8872457002?s=gh-spain-internships-2027) |
 | **Fortinet** | Field Marketing Intern (Marketing Specialist) | Madrid | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-fortinet-24551?s=gh-spain-internships-2027) |
