@@ -373,6 +373,6 @@ Questions or a different use? Open an issue. We say yes more often than not.
 
 ---
 
-**Last Updated**: November 13, 2026
+**Last Updated**: November 14, 2026
 
 </div>
