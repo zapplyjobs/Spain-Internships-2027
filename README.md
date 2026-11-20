@@ -16,7 +16,7 @@
 <p align="center">🚀 Internships and entry-level programs across Spain in tech, finance, healthcare, and more. Postings are shown in their original language, updated every 10 minutes.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Internships-255-3FB950?style=flat&logo=briefcase" height="30" alt="Total Internships">
+  <img src="https://img.shields.io/badge/Total%20Internships-254-3FB950?style=flat&logo=briefcase" height="30" alt="Total Internships">
   <img src="https://img.shields.io/badge/Operations%20%26%20Support-32-2F81F7?style=flat&logo=briefcase" height="30" alt="Operations & Support">
   <img src="https://img.shields.io/badge/Companies-58-C79100?style=flat&logo=building" height="30" alt="Companies hiring">
   <img src="https://img.shields.io/badge/Updated%20every%2010%20minutes-A371F7?style=flat&logo=clock" height="30" alt="Updated every 10 minutes">
@@ -121,11 +121,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **NVIDIA** | Solution Architect, Local Government AI | Spain, ES +1 more | 39m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2021891?s=gh-spain-internships-2027) |
+| **NVIDIA** | Solution Architect, Local Government AI | Spain, ES +1 more | 45m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2021891?s=gh-spain-internships-2027) |
 | **HP Inc** | Data & AI Intern - Intelligent Operations | Sant Cugat del Valles | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4519?s=gh-spain-internships-2027) |
 | **HP Inc** | Software & AI Product Management Intern | Sant Cugat del Valles | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4781?s=gh-spain-internships-2027) |
-| **HPE** | AI and Data Intern | Las Rozas | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-acjobsite-1218829?s=gh-spain-internships-2027) |
 | **HP Inc** | AI & Automation Intern | Sant Cugat del Valles | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4612?s=gh-spain-internships-2027) |
+| **HPE** | AI and Data Intern | Las Rozas | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-acjobsite-1218829?s=gh-spain-internships-2027) |
 | **HPE (University)** | AI and Data Intern | Las Rozas | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1218829?s=gh-spain-internships-2027) |
 | **AstraZeneca** | AI & Data Science Internship Program – AstraZeneca Barcelona | Spain - Barcelona, ES | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-261531?s=gh-spain-internships-2027) |
 | **GitLab** | Staff Solutions Architect, AI Subject Matter Expert | France +1 more | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-gitlab-8860196002?s=gh-spain-internships-2027) |
@@ -142,7 +142,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Carrier Global** | Field Service Technician I | ESP2841: Avenida de la Industria 6 | 52m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30222327?s=gh-spain-internships-2027) |
+| **Carrier Global** | Field Service Technician I | ESP2841: Avenida de la Industria 6 | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30222327?s=gh-spain-internships-2027) |
 | **Novanta** | Supply Chain Intern | Barcelona | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-novanta-novanta-careers-R009727?s=gh-spain-internships-2027) |
 | **Air Liquide** | INTERNSHIP OPERATIONS - MEJORA CONTINUA | Spain | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-airliquidehr-airliquideexternalcareer-R10105517?s=gh-spain-internships-2027) |
 | **Medtronic** | Intern Remote Monitoring Support | Madrid | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-medtronic-medtroniccareers-R79845?s=gh-spain-internships-2027) |
@@ -184,11 +184,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Merck & Co.** | Beca en Customer Experience & Omnichannel Strategy | ESP - Madrid - Madrid, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R417881?s=gh-spain-internships-2027) |
-| **Analog Devices** | Digital Design Engineering​ Intern | Spain | 40m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R267043?s=gh-spain-internships-2027) |
+| **Merck & Co.** | Beca en Customer Experience & Omnichannel Strategy | ESP - Madrid - Madrid, ES | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R417881?s=gh-spain-internships-2027) |
+| **Analog Devices** | Digital Design Engineering​ Intern | Spain | 45m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R267043?s=gh-spain-internships-2027) |
 | **Nike** | Nike Retail Store Associate (Athlete)-Contrato de duracion determinada -Nike Store Madrid H2O Rivas | Madrid | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nike-nke-R-97689?s=gh-spain-internships-2027) |
 | **Nike** | Nike Store Associate (Athlete) - SEVILLA -  Contrato Temporal - Part Time (25hs) | Sevilla | 17h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nike-nke-R-97671?s=gh-spain-internships-2027) |
-| **Microsoft** | Data Center Technician - Intern | Madrid | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200066903?s=gh-spain-internships-2027) |
+| **Microsoft** | Data Center Technician - Intern | Madrid | 20h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200066903?s=gh-spain-internships-2027) |
 | **Celonis** | Associate Technology Consultant - Galaxy Graduate Program (German/French Speaking) | Madrid | 21h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-celonis-8209085003?s=gh-spain-internships-2027) |
 | **Johnson & Johnson** | Market Access Intern | Madrid | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-100323?s=gh-spain-internships-2027) |
 | **Analog Devices** | Layout Designer (Intern) | Spain | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R267042?s=gh-spain-internships-2027) |
@@ -211,11 +211,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **HPE (University)** | Digital Sales - Part time Intern | Barcelona | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1217182?s=gh-spain-internships-2027) |
 | **Analog Devices** | Product Applications Intern | Spain | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R267038?s=gh-spain-internships-2027) |
 | **AbbVie** | Intern Financiero | Madrid, ES | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016840076?s=gh-spain-internships-2027) |
-| **Philips** | EI Intern 2 | Madrid, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-595220?s=gh-spain-internships-2027) |
-| **GE Vernova** | Intern Consulting Application Engineer | Zamudio, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5058654?s=gh-spain-internships-2027) |
 | **HP Inc** | Sustainability Intern - EMEA | Sant Cugat del Valles | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-3170256?s=gh-spain-internships-2027) |
 | **HP Inc** | Data Science Intern | Sant Cugat del Valles | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI3930?s=gh-spain-internships-2027) |
 | **HP Inc** | Engineering Intern | Sant Cugat del Valles | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4610?s=gh-spain-internships-2027) |
+| **Philips** | EI Intern 2 | Madrid, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-595220?s=gh-spain-internships-2027) |
+| **GE Vernova** | Intern Consulting Application Engineer | Zamudio, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5058654?s=gh-spain-internships-2027) |
 | **Merck & Co.** | Beca en Policy & Corporate Affairs | ESP - Madrid - Madrid, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R427256?s=gh-spain-internships-2027) |
 | **Elastic** | Sales Development Representative MENA (Arabic speaking) | Barcelona | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-elastic-8382582?s=gh-spain-internships-2027) |
 | **Microsoft** | Research Intern - Gray Systems Lab (GSL) | Barcelona | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200064413?s=gh-spain-internships-2027) |
@@ -350,7 +350,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 255 current opportunities from 58 companies**
+**🎯 254 current opportunities from 58 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
