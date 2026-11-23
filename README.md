@@ -123,7 +123,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **NVIDIA** | Solution Architect, Local Government AI | Spain, ES +1 more | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2021891?s=gh-spain-internships-2027) |
+| **NVIDIA** | Solution Architect, Local Government AI | Spain, ES +1 more | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2021891?s=gh-spain-internships-2027) |
 | **HP Inc** | Data & AI Intern - Intelligent Operations | Sant Cugat del Valles | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4519?s=gh-spain-internships-2027) |
 | **HP Inc** | Software & AI Product Management Intern | Sant Cugat del Valles | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4781?s=gh-spain-internships-2027) |
 | **HPE** | AI and Data Intern | Las Rozas | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-acjobsite-1218829?s=gh-spain-internships-2027) |
@@ -184,19 +184,19 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **PricewaterhouseCoopers** | IFS    Prácticas Marketing Digital e Innovación– PwC | Madrid, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-775318WD?s=gh-spain-internships-2027) |
+| **PricewaterhouseCoopers** | IFS    Prácticas Marketing Digital e Innovación– PwC | Madrid, ES | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-775318WD?s=gh-spain-internships-2027) |
 | **Nike** | Nike Retail Store Associate (Athlete)-Contrato de duracion determinada -Nike Store Madrid H2O Rivas | Madrid | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nike-nke-R-97689?s=gh-spain-internships-2027) |
-| **Analog Devices** | Digital Design Engineering​ Intern | Spain | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R267043?s=gh-spain-internships-2027) |
 | **Nike** | Nike Store Associate (Athlete) - SEVILLA -  Contrato Temporal - Part Time (25hs) | Sevilla | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nike-nke-R-97671?s=gh-spain-internships-2027) |
 | **Microsoft** | Data Center Technician - Intern | Madrid | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200066903?s=gh-spain-internships-2027) |
 | **Merck & Co.** | Beca en Customer Experience & Omnichannel Strategy | ESP - Madrid - Madrid, ES | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R417881?s=gh-spain-internships-2027) |
 | **Celonis** | Associate Technology Consultant - Galaxy Graduate Program (German/French Speaking) | Madrid | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-celonis-8209085003?s=gh-spain-internships-2027) |
+| **Analog Devices** | Digital Design Engineering​ Intern | Spain | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R267043?s=gh-spain-internships-2027) |
 | **PricewaterhouseCoopers** | Beca Ciencia de Datos Bancario | Madrid, ES | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-774966WD?s=gh-spain-internships-2027) |
 | **PricewaterhouseCoopers** | Assurance   Junior Auditoria Financiera NFY27 Zaragoza | Zaragoza, ES | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-774962WD?s=gh-spain-internships-2027) |
-| **Analog Devices** | Layout Designer (Intern) | Spain | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R267042?s=gh-spain-internships-2027) |
 | **Johnson & Johnson** | Market Access Intern | Madrid | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-100323?s=gh-spain-internships-2027) |
 | **Nike** | Nike Store Associate (Athlete) - ZARAGOZA - Contrato Permanente - Part Time (16hs) | Zaragoza | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nike-nke-R-97622?s=gh-spain-internships-2027) |
-| **Red Bull** | Internship - Trade Marketing POS (Off Premise) | Madrid, ES | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-RedBull-744000162242099?s=gh-spain-internships-2027) |
+| **Red Bull** | Internship - Trade Marketing POS (Off Premise) | Madrid, ES | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-RedBull-744000162242099?s=gh-spain-internships-2027) |
+| **Analog Devices** | Layout Designer (Intern) | Spain | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R267042?s=gh-spain-internships-2027) |
 | **Thomson Reuters** | Sales Development Representative French/English Speaking | Madrid Madrid, ES | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-thomsonreuters-external-career-site-Madrid?s=gh-spain-internships-2027) |
 | **Hitachi** | Hitachi Rail Talent Programme - Beca en Recursos Humanos | Madrid | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0152249?s=gh-spain-internships-2027) |
 | **Johnson & Johnson** | Marketing Intern – Surgical Vision Iberia | Madrid | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-111604?s=gh-spain-internships-2027) |
@@ -209,13 +209,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **HPE (University)** | Digital Sales - Part time Intern | Barcelona | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1217182?s=gh-spain-internships-2027) |
 | **KION Group** | Electronic Laboratory trainee | Pallejà | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0074949?s=gh-spain-internships-2027) |
 | **AstraZeneca** | Competitive Intelligence Analyst Intern | Spain - Barcelona, ES | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-264390?s=gh-spain-internships-2027) |
-| **Analog Devices** | Product Applications Intern | Spain | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R267038?s=gh-spain-internships-2027) |
 | **AbbVie** | Intern Financiero | Madrid, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016840076?s=gh-spain-internships-2027) |
-| **Philips** | EI Intern 2 | Madrid, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-595220?s=gh-spain-internships-2027) |
+| **Analog Devices** | Product Applications Intern | Spain | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R267038?s=gh-spain-internships-2027) |
 | **GE Vernova** | Intern Consulting Application Engineer | Zamudio, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5058654?s=gh-spain-internships-2027) |
 | **Merck & Co.** | Beca en Policy & Corporate Affairs | ESP - Madrid - Madrid, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R427256?s=gh-spain-internships-2027) |
 | **Elastic** | Sales Development Representative MENA (Arabic speaking) | Barcelona | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-elastic-8382582?s=gh-spain-internships-2027) |
 | **Microsoft** | Research Intern - Gray Systems Lab (GSL) | Barcelona | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200064413?s=gh-spain-internships-2027) |
+| **Philips** | EI Intern 2 | Madrid, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-595220?s=gh-spain-internships-2027) |
 | **HP Inc** | Sustainability Intern - EMEA | Sant Cugat del Valles | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-3170256?s=gh-spain-internships-2027) |
 | **HP Inc** | Data Science Intern | Sant Cugat del Valles | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI3930?s=gh-spain-internships-2027) |
 | **HP Inc** | Engineering Intern | Sant Cugat del Valles | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4610?s=gh-spain-internships-2027) |
