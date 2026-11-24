@@ -184,8 +184,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Carrier Global** | Mecánico Frigorista I | ESP2841: Avenida de la Industria 6 | 32m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30222327?s=gh-spain-internships-2027) |
-| **PricewaterhouseCoopers** | Beca Comunicación PwC | Madrid, ES | 57m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-775662WD?s=gh-spain-internships-2027) |
+| **Carrier Global** | Mecánico Frigorista I | ESP2841: Avenida de la Industria 6 | 40m | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30222327?s=gh-spain-internships-2027) |
+| **PricewaterhouseCoopers** | Beca Comunicación PwC | Madrid, ES | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-775662WD?s=gh-spain-internships-2027) |
 | **Bosch Group** | Estudiante en prácticas - Departamento de Compliance (H/M/D) | Madrid, ES | 9h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000163304279?s=gh-spain-internships-2027) |
 | **Veolia Environnement SA** | Jefe/a de Producción Junior – Obra Civil e Hidráulica | San Fernando, ES | 16h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000163206094?s=gh-spain-internships-2027) |
 | **Elastic** | Sales Development Representative UKI (English speaking) | Barcelona | 19h | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-elastic-8393157?s=gh-spain-internships-2027) |
