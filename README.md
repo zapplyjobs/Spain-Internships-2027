@@ -121,7 +121,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Celonis** | Intern Demo Experience & Applied AI | Madrid | 19h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-celonis-8208057003?s=gh-spain-internships-2027) |
+| **Celonis** | Intern Demo Experience & Applied AI | Madrid | 20h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-celonis-8208057003?s=gh-spain-internships-2027) |
 | **NVIDIA** | Solution Architect, Local Government AI | Spain, ES +1 more | 2d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2021891?s=gh-spain-internships-2027) |
 | **TD Synnex** | Junior Technical Sales Specialist – Azure & AI | Alcobendas Spain, ES +1 more | 4d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R56064?s=gh-spain-internships-2027) |
 | **HP Inc** | Data & AI Intern - Intelligent Operations | Sant Cugat del Valles | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4519?s=gh-spain-internships-2027) |
@@ -217,8 +217,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **AbbVie** | Intern Financiero | Madrid, ES | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016840076?s=gh-spain-internships-2027) |
 | **Analog Devices** | Product Applications Intern | Spain | 2w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R267038?s=gh-spain-internships-2027) |
 | **Merck & Co.** | Beca en Policy & Corporate Affairs | ESP - Madrid - Madrid, ES | 2w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R427256?s=gh-spain-internships-2027) |
-| **Philips** | EI Intern 2 | Madrid, ES | 2w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-595220?s=gh-spain-internships-2027) |
 | **HP Inc** | Data Science Intern | Sant Cugat del Valles | 2w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI3930?s=gh-spain-internships-2027) |
+| **Philips** | EI Intern 2 | Madrid, ES | 2w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-595220?s=gh-spain-internships-2027) |
 | **GE Vernova** | Intern Consulting Application Engineer | Zamudio, ES | 2w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5058654?s=gh-spain-internships-2027) |
 | **Microsoft** | Research Intern - Gray Systems Lab (GSL) | Barcelona | 2w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/microsoft-200064413?s=gh-spain-internships-2027) |
 | **HP Inc** | Sustainability Intern - EMEA | Sant Cugat del Valles | 2w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-3170256?s=gh-spain-internships-2027) |
