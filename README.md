@@ -121,7 +121,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Celonis** | Intern AI Solutions & Value Engineering (Agentic Customer Journey) | Madrid | 1h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-celonis-8213877003?s=gh-spain-internships-2027) |
+| **Celonis** | Intern AI Solutions & Value Engineering (Agentic Customer Journey) | Madrid | 2h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-celonis-8213877003?s=gh-spain-internships-2027) |
 | **Celonis** | Intern Demo Experience & Applied AI | Madrid | 1d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-celonis-8208057003?s=gh-spain-internships-2027) |
 | **NVIDIA** | Solution Architect, Local Government AI | Spain, ES +1 more | 2d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2021891?s=gh-spain-internships-2027) |
 | **TD Synnex** | Junior Technical Sales Specialist – Azure & AI | Alcobendas Spain, ES +1 more | 4d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R56064?s=gh-spain-internships-2027) |
@@ -184,18 +184,18 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | **NBCUniversal** | Social Media & PR Trainee- Iberia | Madrid, ES | 5h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-NBCUniversal3-744000164026379?s=gh-spain-internships-2027) |
+| **Carrier Global** | Becario Ingeniería Fabricación | n, CO | 1d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30198445?s=gh-spain-internships-2027) |
 | **PricewaterhouseCoopers** | TLS   Beca Fiscal Mallorca Enero 2027 | Palma de Mallorca, ES | 1d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-776329WD?s=gh-spain-internships-2027) |
 | **PricewaterhouseCoopers** | TLS   Beca Legal Sevilla Septiembre 2027 | Sevilla, ES | 1d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-776401WD?s=gh-spain-internships-2027) |
 | **Johnson & Johnson** | Finance Intern | Madrid - Lafinca, ES | 1d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-106808?s=gh-spain-internships-2027) |
 | **Johnson & Johnson** | Internship Business Finance | Madrid | 1d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-103997?s=gh-spain-internships-2027) |
-| **Carrier Global** | Becario Ingeniería Fabricación | n, CO | 1d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30198445?s=gh-spain-internships-2027) |
 | **GE Vernova** | Intern for: Characterization of Advanced Automation Applications on Universal Controller Platform | Zamudio, ES | 1d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5059839?s=gh-spain-internships-2027) |
 | **Thermo Fisher Scientific** | CTC I | Madrid | 1d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-thermofisher-thermofishercareers-R-01375841?s=gh-spain-internships-2027) |
 | **Cigna** | Junior IT Service Desk Analyst - Cigna Healthcare | Madrid | 2d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26014510?s=gh-spain-internships-2027) |
 | **Bosch Group** | Estudiante en prácticas - Departamento de Marketing HC (Bosch Home Comfort) | Madrid, ES | 3d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000163443318?s=gh-spain-internships-2027) |
 | **Bosch Group** | Estudiante en prácticas - Departamento de Compliance (H/M/D) | Madrid, ES | 3d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000163304279?s=gh-spain-internships-2027) |
-| **PricewaterhouseCoopers** | Beca Comunicación PwC | Madrid, ES | 4d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-775662WD?s=gh-spain-internships-2027) |
 | **Carrier Global** | Mecánico Frigorista I | ESP2841: Avenida de la Industria 6 | 4d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30222327?s=gh-spain-internships-2027) |
+| **PricewaterhouseCoopers** | Beca Comunicación PwC | Madrid, ES | 4d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-775662WD?s=gh-spain-internships-2027) |
 | **Veolia Environnement SA** | Jefe/a de Producción Junior – Obra Civil e Hidráulica | San Fernando, ES | 4d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000163206094?s=gh-spain-internships-2027) |
 | **Elastic** | Sales Development Representative UKI (English speaking) | Barcelona | 4d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-elastic-8393157?s=gh-spain-internships-2027) |
 | **Analog Devices** | Digital Design Engineering​ Intern | Spain | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R267043?s=gh-spain-internships-2027) |
