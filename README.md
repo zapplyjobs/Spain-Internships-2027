@@ -126,8 +126,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **TD Synnex** | Junior Technical Sales Specialist – Azure & AI | Alcobendas Spain, ES +1 more | 4d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R56064?s=gh-spain-internships-2027) |
 | **HP Inc** | Data & AI Intern - Intelligent Operations | Sant Cugat del Valles | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4519?s=gh-spain-internships-2027) |
 | **HP Inc** | Software & AI Product Management Intern | Sant Cugat del Valles | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4781?s=gh-spain-internships-2027) |
-| **HPE** | AI and Data Intern | Las Rozas | 2w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-acjobsite-1218829?s=gh-spain-internships-2027) |
 | **HPE (University)** | AI and Data Intern | Las Rozas | 2w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1218829?s=gh-spain-internships-2027) |
+| **HPE** | AI and Data Intern | Las Rozas | 2w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-acjobsite-1218829?s=gh-spain-internships-2027) |
 | **HP Inc** | AI & Automation Intern | Sant Cugat del Valles | 2w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4612?s=gh-spain-internships-2027) |
 | **AstraZeneca** | AI & Data Science Internship Program – AstraZeneca Barcelona | Spain - Barcelona, ES | 1mo | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-261531?s=gh-spain-internships-2027) |
 | **Boston Consulting Group** | Forward Deployed AI Engineer, Internship, Spain - BCG X | Madrid +1 more | 2026-01-13 | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/eightfold-bcg-790313582811?s=gh-spain-internships-2027) |
@@ -182,7 +182,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **NBCUniversal** | Social Media & PR Trainee- Iberia | Madrid, ES | 43m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-NBCUniversal3-744000164026379?s=gh-spain-internships-2027) |
+| **NBCUniversal** | Social Media & PR Trainee- Iberia | Madrid, ES | 53m | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-NBCUniversal3-744000164026379?s=gh-spain-internships-2027) |
 | **GE Vernova** | Intern for: Characterization of Advanced Automation Applications on Universal Controller Platform | Zamudio, ES | 1d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-gevernova-vernova-externalsite-R5059839?s=gh-spain-internships-2027) |
 | **Carrier Global** | Becario Ingeniería Fabricación | n, CO | 1d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30198445?s=gh-spain-internships-2027) |
 | **Johnson & Johnson** | Finance Intern | Madrid - Lafinca, ES | 1d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-106808?s=gh-spain-internships-2027) |
@@ -208,8 +208,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Nike** | Nike Store Associate (Athlete) - ZARAGOZA - Contrato Permanente - Part Time (16hs) | Zaragoza | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-nike-nke-R-97622?s=gh-spain-internships-2027) |
 | **Red Bull** | Internship - Trade Marketing POS (Off Premise) | Madrid, ES | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-RedBull-744000162242099?s=gh-spain-internships-2027) |
 | **Hitachi** | Hitachi Rail Talent Programme - Beca en Recursos Humanos | Madrid | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-hitachi-hitachi-R0152249?s=gh-spain-internships-2027) |
-| **Deutsche Bank** | Graduate Programme IBCM Advisory 2027 Spain (f/m/x/) | Madrid Paseo Castellana 18, ES | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-db-dbwebsite-R0453361?s=gh-spain-internships-2027) |
 | **PTC** | Sales Compliance Intern - German Speaker | Barcelona | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-ptc-ptc-JR112469?s=gh-spain-internships-2027) |
+| **Deutsche Bank** | Graduate Programme IBCM Advisory 2027 Spain (f/m/x/) | Madrid Paseo Castellana 18, ES | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-db-dbwebsite-R0453361?s=gh-spain-internships-2027) |
 | **Stanley Black & Decker** | Digital Marketing Trainee | Bergueda | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-sbdinc-stanley-black-decker-career-site-REQ-1000053430?s=gh-spain-internships-2027) |
 | **AstraZeneca** | Competitive Intelligence Analyst Intern | Spain - Barcelona, ES | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-astrazeneca-careers-R-264390?s=gh-spain-internships-2027) |
 | **KION Group** | Electronic Laboratory trainee | Pallejà | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0074949?s=gh-spain-internships-2027) |
