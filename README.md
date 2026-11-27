@@ -103,12 +103,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **HP Inc** | Business Intelligence & Data Analytics Intern | Sant Cugat del Valles | 3w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4522?s=gh-spain-internships-2027) |
 | **HP Inc** | Data Analyst Intern | Sant Cugat del Valles | 3w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4613?s=gh-spain-internships-2027) |
 | **HP Inc** | Data Scientist Intern - Supplier Management Analytics & AI | Sant Cugat del Valles | 3w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-hp-externalcareersite-UNI4457?s=gh-spain-internships-2027) |
+| **Air Liquide** | Data Analyst Internship (M/F) | Spain | 1mo | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-airliquidehr-airliquideexternalcareer-R10101926?s=gh-spain-internships-2027) |
 | **TD Synnex** | Prácticas en BI - Data Analytics / E-Commerce (jornada completa) | Barcelona | 1mo | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-synnex-tdsynnexcareers-R53955?s=gh-spain-internships-2027) |
 | **Visa** | Consulting & Analytics Summer Intern | ES - Madrid | 1mo | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-visa-visa-REF089917W?s=gh-spain-internships-2027) |
 | **PricewaterhouseCoopers** | Beca People Analytics – Human Capital | Madrid, ES | 1mo | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-732826WD?s=gh-spain-internships-2027) |
 | **PricewaterhouseCoopers** | Beca en Ciencias Actuariales 2027 (FY28) | Madrid, ES | 1mo | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-760438WD?s=gh-spain-internships-2027) |
 | **PricewaterhouseCoopers** | Assurance   Beca en Ciencias Actuariales 2027 (FY28) Barcelona | Barcelona, ES | 1mo | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-764626WD?s=gh-spain-internships-2027) |
-| **Air Liquide** | Data Analyst Internship (M/F) | Spain | 1mo | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-airliquidehr-airliquideexternalcareer-R10101926?s=gh-spain-internships-2027) |
 | **GE Healthcare** | Intern - Service Analytics | Madrid, ES | 1mo | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-gehc-gehc-externalsite-R4046429?s=gh-spain-internships-2027) |
 
 <p align="center">Apply for more jobs at</p>
@@ -183,7 +183,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **NBCUniversal** | Social Media & PR Trainee- Iberia | Madrid, ES | 10h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-NBCUniversal3-744000164026379?s=gh-spain-internships-2027) |
+| **NBCUniversal** | Social Media & PR Trainee- Iberia | Madrid, ES | 11h | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-NBCUniversal3-744000164026379?s=gh-spain-internships-2027) |
 | **Carrier Global** | Becario Ingeniería Fabricación | n, CO | 1d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-carrier-jobs-30198445?s=gh-spain-internships-2027) |
 | **PricewaterhouseCoopers** | TLS   Beca Fiscal Mallorca Enero 2027 | Palma de Mallorca, ES | 1d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-776329WD?s=gh-spain-internships-2027) |
 | **PricewaterhouseCoopers** | TLS   Beca Legal Sevilla Septiembre 2027 | Sevilla, ES | 1d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-pwc-global-campus-careers-776401WD?s=gh-spain-internships-2027) |
@@ -198,8 +198,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Bosch Group** | Estudiante en prácticas - Departamento de Compliance (H/M/D) | Madrid, ES | 4d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000163304279?s=gh-spain-internships-2027) |
 | **Veolia Environnement SA** | Jefe/a de Producción Junior – Obra Civil e Hidráulica | San Fernando, ES | 4d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-VeoliaEnvironnementSA-744000163206094?s=gh-spain-internships-2027) |
 | **Elastic** | Sales Development Representative UKI (English speaking) | Barcelona | 4d | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/greenhouse-elastic-8393157?s=gh-spain-internships-2027) |
-| **Analog Devices** | Digital Design Engineering​ Intern | Spain | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R267043?s=gh-spain-internships-2027) |
 | **Nike** | Nike Retail Store Associate (Athlete)-Contrato de duracion determinada -Nike Store Madrid H2O Rivas | Madrid | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-nike-nke-R-97689?s=gh-spain-internships-2027) |
+| **Analog Devices** | Digital Design Engineering​ Intern | Spain | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R267043?s=gh-spain-internships-2027) |
 | **Nike** | Nike Store Associate (Athlete) - SEVILLA -  Contrato Temporal - Part Time (25hs) | Sevilla | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-nike-nke-R-97671?s=gh-spain-internships-2027) |
 | **Microsoft** | Data Center Technician - Intern | Madrid | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/microsoft-200066903?s=gh-spain-internships-2027) |
 | **Merck & Co.** | Beca en Customer Experience & Omnichannel Strategy | ESP - Madrid - Madrid, ES | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R417881?s=gh-spain-internships-2027) |
