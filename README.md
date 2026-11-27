@@ -215,7 +215,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **HPE** | Digital Sales - Part time Intern | Barcelona | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-acjobsite-1217182?s=gh-spain-internships-2027) |
 | **KION Group** | Electronic Laboratory trainee | Pallejà | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-kiongroup-kiongroup-JR-0074949?s=gh-spain-internships-2027) |
 | **HPE (University)** | Digital Sales - Part time Intern | Barcelona | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1217182?s=gh-spain-internships-2027) |
-| **AbbVie** | Intern Financiero | Madrid, ES | 1w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016840076?s=gh-spain-internships-2027) |
+| **AbbVie** | Intern Financiero | Madrid, ES | 2w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/sr-AbbVie-3743990016840076?s=gh-spain-internships-2027) |
 | **Analog Devices** | Product Applications Intern | Spain | 2w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-analogdevices-external-R267038?s=gh-spain-internships-2027) |
 | **Merck & Co.** | Beca en Policy & Corporate Affairs | ESP - Madrid - Madrid, ES | 2w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-msd-searchjobs-R427256?s=gh-spain-internships-2027) |
 | **Philips** | EI Intern 2 | Madrid, ES | 2w | [<img src="images/apply.png" width="100" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-595220?s=gh-spain-internships-2027) |
