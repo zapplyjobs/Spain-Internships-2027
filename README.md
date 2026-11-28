@@ -377,6 +377,6 @@ Questions or a different use? Open an issue. We say yes more often than not.
 
 ---
 
-**Last Updated**: November 27, 2026
+**Last Updated**: November 28, 2026
 
 </div>
